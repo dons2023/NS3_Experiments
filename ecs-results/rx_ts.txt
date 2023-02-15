@@ -1,0 +1,46 @@
+RX_time: 5595, dport: 100, seq_num: 0 
+RX_time: 5714, dport: 200, seq_num: 0
+RX_time: 5833, dport: 100, seq_num: 1452
+RX_time: 5952, dport: 200, seq_num: 1452
+RX_time: 6071, dport: 100, seq_num: 2904
+RX_time: 6190, dport: 200, seq_num: 2904
+RX_time: 6309, dport: 100, seq_num: 4356
+RX_time: 6428, dport: 200, seq_num: 4356
+RX_time: 6547, dport: 100, seq_num: 5808
+RX_time: 6666, dport: 200, seq_num: 5808
+RX_time: 6785, dport: 100, seq_num: 7260
+RX_time: 6904, dport: 200, seq_num: 7260
+RX_time: 7023, dport: 100, seq_num: 8712
+RX_time: 7142, dport: 200, seq_num: 8712
+RX_time: 7261, dport: 100, seq_num: 1016
+RX_time: 7380, dport: 200, seq_num: 1016
+RX_time: 7499, dport: 100, seq_num: 1161
+RX_time: 7618, dport: 200, seq_num: 1161
+RX_time: 7737, dport: 100, seq_num: 1306
+RX_time: 7856, dport: 200, seq_num: 1306
+
+
+0:
+5595
+5833
+6071
+6309
+6547
+6785
+7023
+7261
+7499
+7737
+
+1:
+5714
+5952
+6190
+6428
+6666
+6904
+7142
+7380
+7618
+7856
+

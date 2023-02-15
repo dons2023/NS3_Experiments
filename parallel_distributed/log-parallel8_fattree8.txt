@@ -1,0 +1,2152 @@
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (0.773s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (0.771s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (0.775s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (0.772s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (0.778s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (0.765s)
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree8_topo.txt
+FLOW_FILE			mix/fattree8_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel8_fattree8.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel8_fattree8.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel8_fattree8.txt
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+'build' finished successfully (0.803s)
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree8_topo.txt
+FLOW_FILE			mix/fattree8_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel8_fattree8.tr
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel8_fattree8.txt
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel8_fattree8.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel8_fattree8.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+TOPOLOGY_FILE			mix/fattree8_topo.txt
+FLOW_FILE			mix/fattree8_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel8_fattree8.tr
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel8_fattree8.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel8_fattree8.txt
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel8_fattree8.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel8_fattree8.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree8_topo.txt
+FLOW_FILE			mix/fattree8_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel8_fattree8.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel8_fattree8.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel8_fattree8.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel8_fattree8.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree8_topo.txt
+FLOW_FILE			mix/fattree8_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel8_fattree8.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel8_fattree8.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel8_fattree8.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel8_fattree8.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree8_topo.txt
+FLOW_FILE			mix/fattree8_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel8_fattree8.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel8_fattree8.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel8_fattree8.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel8_fattree8.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree8_topo.txt
+FLOW_FILE			mix/fattree8_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel8_fattree8.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel8_fattree8.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel8_fattree8.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel8_fattree8.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (0.950s)
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree8_topo.txt
+FLOW_FILE			mix/fattree8_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel8_fattree8.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel8_fattree8.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel8_fattree8.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel8_fattree8.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+LP 0 topology partitioning: node 0 to LP 0.
+LP 1 topology partitioning: node 0 to LP 0.
+LP 0 topology partitioning: node 1 to LP 0.
+LP 1 topology partitioning: node 1 to LP 0.
+LP 1 topology partitioning: node 2 to LP 0.
+LP 0 topology partitioning: node 2 to LP 0.
+LP 1 topology partitioning: node 3 to LP 0.
+LP 0 topology partitioning: node 3 to LP 0.
+LP 1 topology partitioning: node 4 to LP 0.
+LP 0 topology partitioning: node 4 to LP 0.
+LP 1 topology partitioning: node 5 to LP 0.
+LP 0 topology partitioning: node 5 to LP 0.
+LP 1 topology partitioning: node 6 to LP 0.
+LP 0 topology partitioning: node 6 to LP 0.
+LP 1 topology partitioning: node 7 to LP 0.
+LP 0 topology partitioning: node 7 to LP 0.
+LP 1 topology partitioning: node 8 to LP 0.
+LP 0 topology partitioning: node 8 to LP 0.
+LP 1 topology partitioning: node 9 to LP 0.
+LP 1 topology partitioning: node 10 to LP 0.
+LP 1 topology partitioning: node 11 to LP 0.
+LP 0 topology partitioning: node 9 to LP 0.
+LP 1 topology partitioning: node 12 to LP 0.
+LP 1 topology partitioning: node 13 to LP 0.
+LP 0 topology partitioning: node 10 to LP 0.
+LP 1 topology partitioning: node 14 to LP 0.
+LP 0 topology partitioning: node 11 to LP 0.
+LP 1 topology partitioning: node 15 to LP 0.
+LP 0 topology partitioning: node 12 to LP 0.
+LP 1 topology partitioning: node 16 to LP 1.
+LP 0 topology partitioning: node 13 to LP 0.
+LP 0 topology partitioning: node 14 to LP 0.
+LP 1 topology partitioning: node 17 to LP 1.
+LP 1 topology partitioning: node 18 to LP 1.
+LP 0 topology partitioning: node 15 to LP 0.
+LP 0 topology partitioning: node 16 to LP 1.
+LP 1 topology partitioning: node 19 to LP 1.
+LP 0 topology partitioning: node 17 to LP 1.
+LP 1 topology partitioning: node 20 to LP 1.
+LP 1 topology partitioning: node 21 to LP 1.
+LP 1 topology partitioning: node 22 to LP 1.
+LP 0 topology partitioning: node 18 to LP 1.
+LP 1 topology partitioning: node 23 to LP 1.
+LP 0 topology partitioning: node 19 to LP 1.
+LP 1 topology partitioning: node 24 to LP 1.
+LP 0 topology partitioning: node 20 to LP 1.
+LP 1 topology partitioning: node 25 to LP 1.
+LP 0 topology partitioning: node 21 to LP 1.
+LP 1 topology partitioning: node 26 to LP 1.
+LP 1 topology partitioning: node 27 to LP 1.
+LP 0 topology partitioning: node 22 to LP 1.
+LP 1 topology partitioning: node 28 to LP 1.
+LP 0 topology partitioning: node 23 to LP 1.
+LP 1 topology partitioning: node 29 to LP 1.
+LP 1 topology partitioning: node 30 to LP 1.
+LP 0 topology partitioning: node 24 to LP 1.
+LP 1 topology partitioning: node 31 to LP 1.
+LP 1 topology partitioning: node 32 to LP 2.
+LP 0 topology partitioning: node 25 to LP 1.
+LP 0 topology partitioning: node 26 to LP 1.
+LP 1 topology partitioning: node 33 to LP 2.
+LP 0 topology partitioning: node 27 to LP 1.
+LP 1 topology partitioning: node 34 to LP 2.
+LP 0 topology partitioning: node 28 to LP 1.
+LP 1 topology partitioning: node 35 to LP 2.
+LP 0 topology partitioning: node 29 to LP 1.
+LP 0 topology partitioning: node 30 to LP 1.
+LP 1 topology partitioning: node 36 to LP 2.
+LP 0 topology partitioning: node 31 to LP 1.
+LP 1 topology partitioning: node 37 to LP 2.
+LP 0 topology partitioning: node 32 to LP 2.
+LP 1 topology partitioning: node 38 to LP 2.
+LP 1 topology partitioning: node 39 to LP 2.
+LP 0 topology partitioning: node 33 to LP 2.
+LP 1 topology partitioning: node 40 to LP 2.
+LP 0 topology partitioning: node 34 to LP 2.
+LP 0 topology partitioning: node 35 to LP 2.
+LP 1 topology partitioning: node 41 to LP 2.
+LP 0 topology partitioning: node 36 to LP 2.
+LP 1 topology partitioning: node 42 to LP 2.
+LP 0 topology partitioning: node 37 to LP 2.
+LP 1 topology partitioning: node 43 to LP 2.
+LP 0 topology partitioning: node 38 to LP 2.
+LP 1 topology partitioning: node 44 to LP 2.
+LP 0 topology partitioning: node 39 to LP 2.
+LP 1 topology partitioning: node 45 to LP 2.
+LP 0 topology partitioning: node 40 to LP 2.
+LP 1 topology partitioning: node 46 to LP 2.
+LP 0 topology partitioning: node 41 to LP 2.
+LP 1 topology partitioning: node 47 to LP 2.
+LP 0 topology partitioning: node 42 to LP 2.
+LP 1 topology partitioning: node 48 to LP 3.
+LP 0 topology partitioning: node 43 to LP 2.
+LP 1 topology partitioning: node 49 to LP 3.
+LP 0 topology partitioning: node 44 to LP 2.
+LP 1 topology partitioning: node 50 to LP 3.
+LP 0 topology partitioning: node 45 to LP 2.
+LP 1 topology partitioning: node 51 to LP 3.
+LP 0 topology partitioning: node 46 to LP 2.
+LP 1 topology partitioning: node 52 to LP 3.
+LP 0 topology partitioning: node 47 to LP 2.
+LP 1 topology partitioning: node 53 to LP 3.
+LP 0 topology partitioning: node 48 to LP 3.
+LP 1 topology partitioning: node 54 to LP 3.
+LP 0 topology partitioning: node 49 to LP 3.
+LP 1 topology partitioning: node 55 to LP 3.
+LP 2 topology partitioning: node 0 to LP 0.
+LP 0 topology partitioning: node 50 to LP 3.
+LP 1 topology partitioning: node 56 to LP 3.
+LP 0 topology partitioning: node 51 to LP 3.
+LP 1 topology partitioning: node 57 to LP 3.
+LP 0 topology partitioning: node 52 to LP 3.
+LP 1 topology partitioning: node 58 to LP 3.
+LP 0 topology partitioning: node 53 to LP 3.
+LP 1 topology partitioning: node 59 to LP 3.
+LP 0 topology partitioning: node 54 to LP 3.
+LP 1 topology partitioning: node 60 to LP 3.
+LP 0 topology partitioning: node 55 to LP 3.
+LP 1 topology partitioning: node 61 to LP 3.
+LP 0 topology partitioning: node 56 to LP 3.
+LP 1 topology partitioning: node 62 to LP 3.
+LP 0 topology partitioning: node 57 to LP 3.
+LP 1 topology partitioning: node 63 to LP 3.
+LP 0 topology partitioning: node 58 to LP 3.
+LP 1 topology partitioning: node 64 to LP 4.
+LP 0 topology partitioning: node 59 to LP 3.
+LP 0 topology partitioning: node 60 to LP 3.
+LP 1 topology partitioning: node 65 to LP 4.
+LP 0 topology partitioning: node 61 to LP 3.
+LP 1 topology partitioning: node 66 to LP 4.
+LP 0 topology partitioning: node 62 to LP 3.
+LP 1 topology partitioning: node 67 to LP 4.
+LP 0 topology partitioning: node 63 to LP 3.
+LP 1 topology partitioning: node 68 to LP 4.
+LP 0 topology partitioning: node 64 to LP 4.
+LP 1 topology partitioning: node 69 to LP 4.
+LP 0 topology partitioning: node 65 to LP 4.
+LP 1 topology partitioning: node 70 to LP 4.
+LP 2 topology partitioning: node 1 to LP 0.
+LP 0 topology partitioning: node 66 to LP 4.
+LP 1 topology partitioning: node 71 to LP 4.
+LP 0 topology partitioning: node 67 to LP 4.
+LP 1 topology partitioning: node 72 to LP 4.
+LP 2 topology partitioning: node 2 to LP 0.
+LP 0 topology partitioning: node 68 to LP 4.
+LP 2 topology partitioning: node 3 to LP 0.
+LP 1 topology partitioning: node 73 to LP 4.
+LP 2 topology partitioning: node 4 to LP 0.
+LP 0 topology partitioning: node 69 to LP 4.
+LP 1 topology partitioning: node 74 to LP 4.
+LP 2 topology partitioning: node 5 to LP 0.
+LP 1 topology partitioning: node 75 to LP 4.
+LP 0 topology partitioning: node 70 to LP 4.
+LP 1 topology partitioning: node 76 to LP 4.
+LP 2 topology partitioning: node 6 to LP 0.
+LP 2 topology partitioning: node 7 to LP 0.
+LP 1 topology partitioning: node 77 to LP 4.
+LP 0 topology partitioning: node 71 to LP 4.
+LP 1 topology partitioning: node 78 to LP 4.
+LP 2 topology partitioning: node 8 to LP 0.
+LP 2 topology partitioning: node 9 to LP 0.
+LP 0 topology partitioning: node 72 to LP 4.
+LP 1 topology partitioning: node 79 to LP 4.
+LP 1 topology partitioning: node 80 to LP 5.
+LP 2 topology partitioning: node 10 to LP 0.
+LP 0 topology partitioning: node 73 to LP 4.
+LP 1 topology partitioning: node 81 to LP 5.
+LP 2 topology partitioning: node 11 to LP 0.
+LP 1 topology partitioning: node 82 to LP 5.
+LP 2 topology partitioning: node 12 to LP 0.
+LP 0 topology partitioning: node 74 to LP 4.
+LP 1 topology partitioning: node 83 to LP 5.
+LP 2 topology partitioning: node 13 to LP 0.
+LP 2 topology partitioning: node 14 to LP 0.
+LP 0 topology partitioning: node 75 to LP 4.
+LP 1 topology partitioning: node 84 to LP 5.
+LP 1 topology partitioning: node 85 to LP 5.
+LP 2 topology partitioning: node 15 to LP 0.
+LP 2 topology partitioning: node 16 to LP 1.
+LP 0 topology partitioning: node 76 to LP 4.
+LP 1 topology partitioning: node 86 to LP 5.
+LP 1 topology partitioning: node 87 to LP 5.
+LP 2 topology partitioning: node 17 to LP 1.
+LP 0 topology partitioning: node 77 to LP 4.
+LP 1 topology partitioning: node 88 to LP 5.
+LP 1 topology partitioning: node 89 to LP 5.
+LP 2 topology partitioning: node 18 to LP 1.
+LP 2 topology partitioning: node 19 to LP 1.
+LP 0 topology partitioning: node 78 to LP 4.
+LP 1 topology partitioning: node 90 to LP 5.
+LP 1 topology partitioning: node 91 to LP 5.
+LP 2 topology partitioning: node 20 to LP 1.
+LP 2 topology partitioning: node 21 to LP 1.
+LP 0 topology partitioning: node 79 to LP 4.
+LP 1 topology partitioning: node 92 to LP 5.
+LP 1 topology partitioning: node 93 to LP 5.
+LP 2 topology partitioning: node 22 to LP 1.
+LP 2 topology partitioning: node 23 to LP 1.
+LP 0 topology partitioning: node 80 to LP 5.
+LP 1 topology partitioning: node 94 to LP 5.
+LP 0 topology partitioning: node 81 to LP 5.
+LP 1 topology partitioning: node 95 to LP 5.
+LP 2 topology partitioning: node 24 to LP 1.
+LP 2 topology partitioning: node 25 to LP 1.
+LP 1 topology partitioning: node 96 to LP 6.
+LP 2 topology partitioning: node 26 to LP 1.
+LP 0 topology partitioning: node 82 to LP 5.
+LP 1 topology partitioning: node 97 to LP 6.
+LP 1 topology partitioning: node 98 to LP 6.
+LP 2 topology partitioning: node 27 to LP 1.
+LP 0 topology partitioning: node 83 to LP 5.
+LP 2 topology partitioning: node 28 to LP 1.
+LP 1 topology partitioning: node 99 to LP 6.
+LP 2 topology partitioning: node 29 to LP 1.
+LP 0 topology partitioning: node 84 to LP 5.
+LP 1 topology partitioning: node 100 to LP 6.
+LP 1 topology partitioning: node 101 to LP 6.
+LP 2 topology partitioning: node 30 to LP 1.
+LP 2 topology partitioning: node 31 to LP 1.
+LP 0 topology partitioning: node 85 to LP 5.
+LP 1 topology partitioning: node 102 to LP 6.
+LP 1 topology partitioning: node 103 to LP 6.
+LP 2 topology partitioning: node 32 to LP 2.
+LP 0 topology partitioning: node 86 to LP 5.
+LP 1 topology partitioning: node 104 to LP 6.
+LP 2 topology partitioning: node 33 to LP 2.
+LP 0 topology partitioning: node 87 to LP 5.
+LP 1 topology partitioning: node 105 to LP 6.
+LP 2 topology partitioning: node 34 to LP 2.
+LP 1 topology partitioning: node 106 to LP 6.
+LP 2 topology partitioning: node 35 to LP 2.
+LP 0 topology partitioning: node 88 to LP 5.
+LP 1 topology partitioning: node 107 to LP 6.
+LP 1 topology partitioning: node 108 to LP 6.
+LP 2 topology partitioning: node 36 to LP 2.
+LP 2 topology partitioning: node 37 to LP 2.
+LP 0 topology partitioning: node 89 to LP 5.
+LP 1 topology partitioning: node 109 to LP 6.
+LP 2 topology partitioning: node 38 to LP 2.
+LP 2 topology partitioning: node 39 to LP 2.
+LP 0 topology partitioning: node 90 to LP 5.
+LP 1 topology partitioning: node 110 to LP 6.
+LP 1 topology partitioning: node 111 to LP 6.
+LP 2 topology partitioning: node 40 to LP 2.
+LP 0 topology partitioning: node 91 to LP 5.
+LP 1 topology partitioning: node 112 to LP 7.
+LP 2 topology partitioning: node 41 to LP 2.
+LP 2 topology partitioning: node 42 to LP 2.
+LP 1 topology partitioning: node 113 to LP 7.
+LP 0 topology partitioning: node 92 to LP 5.
+LP 1 topology partitioning: node 114 to LP 7.
+LP 2 topology partitioning: node 43 to LP 2.
+LP 1 topology partitioning: node 115 to LP 7.
+LP 2 topology partitioning: node 44 to LP 2.
+LP 0 topology partitioning: node 93 to LP 5.
+LP 1 topology partitioning: node 116 to LP 7.
+LP 2 topology partitioning: node 45 to LP 2.
+LP 2 topology partitioning: node 46 to LP 2.
+LP 0 topology partitioning: node 94 to LP 5.
+LP 1 topology partitioning: node 117 to LP 7.
+LP 1 topology partitioning: node 118 to LP 7.
+LP 1 topology partitioning: node 119 to LP 7.
+LP 2 topology partitioning: node 47 to LP 2.
+LP 2 topology partitioning: node 48 to LP 3.
+LP 0 topology partitioning: node 95 to LP 5.
+LP 1 topology partitioning: node 120 to LP 7.
+LP 2 topology partitioning: node 49 to LP 3.
+LP 0 topology partitioning: node 96 to LP 6.
+LP 1 topology partitioning: node 121 to LP 7.
+LP 2 topology partitioning: node 50 to LP 3.
+LP 1 topology partitioning: node 122 to LP 7.
+LP 2 topology partitioning: node 51 to LP 3.
+LP 0 topology partitioning: node 97 to LP 6.
+LP 1 topology partitioning: node 123 to LP 7.
+LP 1 topology partitioning: node 124 to LP 7.
+LP 2 topology partitioning: node 52 to LP 3.
+LP 2 topology partitioning: node 53 to LP 3.
+LP 0 topology partitioning: node 98 to LP 6.
+LP 0 topology partitioning: node 99 to LP 6.
+LP 1 topology partitioning: node 125 to LP 7.
+LP 1 topology partitioning: node 126 to LP 7.
+LP 2 topology partitioning: node 54 to LP 3.
+LP 2 topology partitioning: node 55 to LP 3.
+LP 2 topology partitioning: node 56 to LP 3.
+LP 1 topology partitioning: node 127 to LP 7.
+LP 0 topology partitioning: node 100 to LP 6.
+LP 1 topology partitioning: node 128 to LP 1.
+LP 2 topology partitioning: node 57 to LP 3.
+LP 2 topology partitioning: node 58 to LP 3.
+LP 0 topology partitioning: node 101 to LP 6.
+LP 2 topology partitioning: node 59 to LP 3.
+LP 0 topology partitioning: node 102 to LP 6.
+LP 2 topology partitioning: node 60 to LP 3.
+LP 2 topology partitioning: node 61 to LP 3.
+LP 0 topology partitioning: node 103 to LP 6.
+LP 2 topology partitioning: node 62 to LP 3.
+LP 0 topology partitioning: node 104 to LP 6.
+LP 0 topology partitioning: node 105 to LP 6.
+LP 2 topology partitioning: node 63 to LP 3.
+LP 0 topology partitioning: node 106 to LP 6.
+LP 2 topology partitioning: node 64 to LP 4.
+LP 0 topology partitioning: node 107 to LP 6.
+LP 2 topology partitioning: node 65 to LP 4.
+LP 0 topology partitioning: node 108 to LP 6.
+LP 2 topology partitioning: node 66 to LP 4.
+LP 0 topology partitioning: node 109 to LP 6.
+LP 2 topology partitioning: node 67 to LP 4.
+LP 0 topology partitioning: node 110 to LP 6.
+LP 2 topology partitioning: node 68 to LP 4.
+LP 0 topology partitioning: node 111 to LP 6.
+LP 2 topology partitioning: node 69 to LP 4.
+LP 0 topology partitioning: node 112 to LP 7.
+LP 2 topology partitioning: node 70 to LP 4.
+LP 0 topology partitioning: node 113 to LP 7.
+LP 2 topology partitioning: node 71 to LP 4.
+LP 0 topology partitioning: node 114 to LP 7.
+LP 2 topology partitioning: node 72 to LP 4.
+LP 0 topology partitioning: node 115 to LP 7.
+LP 2 topology partitioning: node 73 to LP 4.
+LP 0 topology partitioning: node 116 to LP 7.
+LP 2 topology partitioning: node 74 to LP 4.
+LP 0 topology partitioning: node 117 to LP 7.
+LP 2 topology partitioning: node 75 to LP 4.
+LP 0 topology partitioning: node 118 to LP 7.
+LP 2 topology partitioning: node 76 to LP 4.
+LP 2 topology partitioning: node 77 to LP 4.
+LP 0 topology partitioning: node 119 to LP 7.
+LP 2 topology partitioning: node 78 to LP 4.
+LP 0 topology partitioning: node 120 to LP 7.
+LP 2 topology partitioning: node 79 to LP 4.
+LP 0 topology partitioning: node 121 to LP 7.
+LP 2 topology partitioning: node 80 to LP 5.
+LP 0 topology partitioning: node 122 to LP 7.
+LP 2 topology partitioning: node 81 to LP 5.
+LP 0 topology partitioning: node 123 to LP 7.
+LP 2 topology partitioning: node 82 to LP 5.
+LP 0 topology partitioning: node 124 to LP 7.
+LP 2 topology partitioning: node 83 to LP 5.
+LP 0 topology partitioning: node 125 to LP 7.
+LP 2 topology partitioning: node 84 to LP 5.
+LP 0 topology partitioning: node 126 to LP 7.
+LP 2 topology partitioning: node 85 to LP 5.
+LP 0 topology partitioning: node 127 to LP 7.
+LP 2 topology partitioning: node 86 to LP 5.
+LP 0 topology partitioning: node 128 to LP 1.
+LP 2 topology partitioning: node 87 to LP 5.
+LP 2 topology partitioning: node 88 to LP 5.
+LP 2 topology partitioning: node 89 to LP 5.
+LP 2 topology partitioning: node 90 to LP 5.
+LP 2 topology partitioning: node 91 to LP 5.
+LP 2 topology partitioning: node 92 to LP 5.
+LP 2 topology partitioning: node 93 to LP 5.
+LP 5 topology partitioning: node 0 to LP 0.
+LP 2 topology partitioning: node 94 to LP 5.
+LP 2 topology partitioning: node 95 to LP 5.
+LP 2 topology partitioning: node 96 to LP 6.
+LP 2 topology partitioning: node 97 to LP 6.
+LP 2 topology partitioning: node 98 to LP 6.
+LP 2 topology partitioning: node 99 to LP 6.
+LP 2 topology partitioning: node 100 to LP 6.
+LP 2 topology partitioning: node 101 to LP 6.
+LP 2 topology partitioning: node 102 to LP 6.
+LP 2 topology partitioning: node 103 to LP 6.
+LP 2 topology partitioning: node 104 to LP 6.
+LP 2 topology partitioning: node 105 to LP 6.
+LP 2 topology partitioning: node 106 to LP 6.
+LP 2 topology partitioning: node 107 to LP 6.
+LP 2 topology partitioning: node 108 to LP 6.
+LP 2 topology partitioning: node 109 to LP 6.
+LP 2 topology partitioning: node 110 to LP 6.
+LP 2 topology partitioning: node 111 to LP 6.
+LP 5 topology partitioning: node 1 to LP 0.
+LP 2 topology partitioning: node 112 to LP 7.
+LP 2 topology partitioning: node 113 to LP 7.
+LP 5 topology partitioning: node 2 to LP 0.
+LP 5 topology partitioning: node 3 to LP 0.
+LP 2 topology partitioning: node 114 to LP 7.
+LP 5 topology partitioning: node 4 to LP 0.
+LP 2 topology partitioning: node 115 to LP 7.
+LP 5 topology partitioning: node 5 to LP 0.
+LP 2 topology partitioning: node 116 to LP 7.
+LP 5 topology partitioning: node 6 to LP 0.
+LP 5 topology partitioning: node 7 to LP 0.
+LP 2 topology partitioning: node 117 to LP 7.
+LP 5 topology partitioning: node 8 to LP 0.
+LP 2 topology partitioning: node 118 to LP 7.
+LP 5 topology partitioning: node 9 to LP 0.
+LP 5 topology partitioning: node 10 to LP 0.
+LP 2 topology partitioning: node 119 to LP 7.
+LP 2 topology partitioning: node 120 to LP 7.
+LP 5 topology partitioning: node 11 to LP 0.
+LP 5 topology partitioning: node 12 to LP 0.
+LP 5 topology partitioning: node 13 to LP 0.
+LP 2 topology partitioning: node 121 to LP 7.
+LP 5 topology partitioning: node 14 to LP 0.
+LP 2 topology partitioning: node 122 to LP 7.
+LP 5 topology partitioning: node 15 to LP 0.
+LP 5 topology partitioning: node 16 to LP 1.
+LP 2 topology partitioning: node 123 to LP 7.
+LP 5 topology partitioning: node 17 to LP 1.
+LP 2 topology partitioning: node 124 to LP 7.
+LP 5 topology partitioning: node 18 to LP 1.
+LP 2 topology partitioning: node 125 to LP 7.
+LP 5 topology partitioning: node 19 to LP 1.
+LP 2 topology partitioning: node 126 to LP 7.
+LP 5 topology partitioning: node 20 to LP 1.
+LP 2 topology partitioning: node 127 to LP 7.
+LP 5 topology partitioning: node 21 to LP 1.
+LP 5 topology partitioning: node 22 to LP 1.
+LP 5 topology partitioning: node 23 to LP 1.
+LP 2 topology partitioning: node 128 to LP 1.
+LP 5 topology partitioning: node 24 to LP 1.
+LP 5 topology partitioning: node 25 to LP 1.
+LP 5 topology partitioning: node 26 to LP 1.
+LP 5 topology partitioning: node 27 to LP 1.
+LP 5 topology partitioning: node 28 to LP 1.
+LP 5 topology partitioning: node 29 to LP 1.
+LP 5 topology partitioning: node 30 to LP 1.
+LP 5 topology partitioning: node 31 to LP 1.
+LP 5 topology partitioning: node 32 to LP 2.
+LP 5 topology partitioning: node 33 to LP 2.
+LP 5 topology partitioning: node 34 to LP 2.
+LP 5 topology partitioning: node 35 to LP 2.
+LP 5 topology partitioning: node 36 to LP 2.
+LP 5 topology partitioning: node 37 to LP 2.
+LP 5 topology partitioning: node 38 to LP 2.
+LP 5 topology partitioning: node 39 to LP 2.
+LP 5 topology partitioning: node 40 to LP 2.
+LP 5 topology partitioning: node 41 to LP 2.
+LP 5 topology partitioning: node 42 to LP 2.
+LP 5 topology partitioning: node 43 to LP 2.
+LP 5 topology partitioning: node 44 to LP 2.
+LP 5 topology partitioning: node 45 to LP 2.
+LP 5 topology partitioning: node 46 to LP 2.
+LP 5 topology partitioning: node 47 to LP 2.
+LP 5 topology partitioning: node 48 to LP 3.
+LP 5 topology partitioning: node 49 to LP 3.
+LP 5 topology partitioning: node 50 to LP 3.
+LP 5 topology partitioning: node 51 to LP 3.
+LP 5 topology partitioning: node 52 to LP 3.
+LP 5 topology partitioning: node 53 to LP 3.
+LP 5 topology partitioning: node 54 to LP 3.
+LP 5 topology partitioning: node 55 to LP 3.
+LP 5 topology partitioning: node 56 to LP 3.
+LP 5 topology partitioning: node 57 to LP 3.
+LP 5 topology partitioning: node 58 to LP 3.
+LP 5 topology partitioning: node 59 to LP 3.
+LP 5 topology partitioning: node 60 to LP 3.
+LP 5 topology partitioning: node 61 to LP 3.
+LP 5 topology partitioning: node 62 to LP 3.
+LP 5 topology partitioning: node 63 to LP 3.
+LP 5 topology partitioning: node 64 to LP 4.
+LP 5 topology partitioning: node 65 to LP 4.
+LP 5 topology partitioning: node 66 to LP 4.
+LP 5 topology partitioning: node 67 to LP 4.
+LP 5 topology partitioning: node 68 to LP 4.
+LP 5 topology partitioning: node 69 to LP 4.
+LP 5 topology partitioning: node 70 to LP 4.
+LP 5 topology partitioning: node 71 to LP 4.
+LP 5 topology partitioning: node 72 to LP 4.
+LP 5 topology partitioning: node 73 to LP 4.
+LP 5 topology partitioning: node 74 to LP 4.
+LP 5 topology partitioning: node 75 to LP 4.
+LP 5 topology partitioning: node 76 to LP 4.
+LP 5 topology partitioning: node 77 to LP 4.
+LP 5 topology partitioning: node 78 to LP 4.
+LP 5 topology partitioning: node 79 to LP 4.
+LP 5 topology partitioning: node 80 to LP 5.
+LP 5 topology partitioning: node 81 to LP 5.
+LP 5 topology partitioning: node 82 to LP 5.
+LP 5 topology partitioning: node 83 to LP 5.
+LP 5 topology partitioning: node 84 to LP 5.
+LP 5 topology partitioning: node 85 to LP 5.
+LP 5 topology partitioning: node 86 to LP 5.
+LP 5 topology partitioning: node 87 to LP 5.
+LP 5 topology partitioning: node 88 to LP 5.
+LP 5 topology partitioning: node 89 to LP 5.
+LP 5 topology partitioning: node 90 to LP 5.
+LP 5 topology partitioning: node 91 to LP 5.
+LP 5 topology partitioning: node 92 to LP 5.
+LP 5 topology partitioning: node 93 to LP 5.
+LP 5 topology partitioning: node 94 to LP 5.
+LP 5 topology partitioning: node 95 to LP 5.
+LP 5 topology partitioning: node 96 to LP 6.
+LP 5 topology partitioning: node 97 to LP 6.
+LP 5 topology partitioning: node 98 to LP 6.
+LP 5 topology partitioning: node 99 to LP 6.
+LP 5 topology partitioning: node 100 to LP 6.
+LP 5 topology partitioning: node 101 to LP 6.
+LP 5 topology partitioning: node 102 to LP 6.
+LP 5 topology partitioning: node 103 to LP 6.
+LP 5 topology partitioning: node 104 to LP 6.
+LP 5 topology partitioning: node 105 to LP 6.
+LP 5 topology partitioning: node 106 to LP 6.
+LP 5 topology partitioning: node 107 to LP 6.
+LP 5 topology partitioning: node 108 to LP 6.
+LP 5 topology partitioning: node 109 to LP 6.
+LP 5 topology partitioning: node 110 to LP 6.
+LP 5 topology partitioning: node 111 to LP 6.
+LP 5 topology partitioning: node 112 to LP 7.
+LP 5 topology partitioning: node 113 to LP 7.
+LP 5 topology partitioning: node 114 to LP 7.
+LP 5 topology partitioning: node 115 to LP 7.
+LP 5 topology partitioning: node 116 to LP 7.
+LP 5 topology partitioning: node 117 to LP 7.
+LP 5 topology partitioning: node 118 to LP 7.
+LP 5 topology partitioning: node 119 to LP 7.
+LP 5 topology partitioning: node 120 to LP 7.
+LP 5 topology partitioning: node 121 to LP 7.
+LP 5 topology partitioning: node 122 to LP 7.
+LP 5 topology partitioning: node 123 to LP 7.
+LP 5 topology partitioning: node 124 to LP 7.
+LP 5 topology partitioning: node 125 to LP 7.
+LP 5 topology partitioning: node 126 to LP 7.
+LP 5 topology partitioning: node 127 to LP 7.
+LP 5 topology partitioning: node 128 to LP 1.
+LP 1 topology partitioning: node 129 to LP 2.
+LP 0 topology partitioning: node 129 to LP 2.
+LP 2 topology partitioning: node 129 to LP 2.
+LP 5 topology partitioning: node 129 to LP 2.
+LP 1 topology partitioning: node 130 to LP 0.
+LP 0 topology partitioning: node 130 to LP 0.
+LP 2 topology partitioning: node 130 to LP 0.
+LP 5 topology partitioning: node 130 to LP 0.
+LP 1 topology partitioning: node 131 to LP 1.
+LP 0 topology partitioning: node 131 to LP 1.
+LP 2 topology partitioning: node 131 to LP 1.
+LP 5 topology partitioning: node 131 to LP 1.
+LP 6 topology partitioning: node 0 to LP 0.
+LP 1 topology partitioning: node 132 to LP 3.
+LP 6 topology partitioning: node 1 to LP 0.
+LP 6 topology partitioning: node 2 to LP 0.
+LP 6 topology partitioning: node 3 to LP 0.
+LP 6 topology partitioning: node 4 to LP 0.
+LP 6 topology partitioning: node 5 to LP 0.
+LP 6 topology partitioning: node 6 to LP 0.
+LP 6 topology partitioning: node 7 to LP 0.
+LP 0 topology partitioning: node 132 to LP 3.
+LP 6 topology partitioning: node 8 to LP 0.
+LP 6 topology partitioning: node 9 to LP 0.
+LP 6 topology partitioning: node 10 to LP 0.
+LP 6 topology partitioning: node 11 to LP 0.
+LP 6 topology partitioning: node 12 to LP 0.
+LP 6 topology partitioning: node 13 to LP 0.
+LP 6 topology partitioning: node 14 to LP 0.
+LP 6 topology partitioning: node 15 to LP 0.
+LP 6 topology partitioning: node 16 to LP 1.
+LP 6 topology partitioning: node 17 to LP 1.
+LP 6 topology partitioning: node 18 to LP 1.
+LP 6 topology partitioning: node 19 to LP 1.
+LP 6 topology partitioning: node 20 to LP 1.
+LP 6 topology partitioning: node 21 to LP 1.
+LP 6 topology partitioning: node 22 to LP 1.
+LP 6 topology partitioning: node 23 to LP 1.
+LP 6 topology partitioning: node 24 to LP 1.
+LP 6 topology partitioning: node 25 to LP 1.
+LP 6 topology partitioning: node 26 to LP 1.
+LP 6 topology partitioning: node 27 to LP 1.
+LP 6 topology partitioning: node 28 to LP 1.
+LP 6 topology partitioning: node 29 to LP 1.
+LP 6 topology partitioning: node 30 to LP 1.
+LP 6 topology partitioning: node 31 to LP 1.
+LP 6 topology partitioning: node 32 to LP 2.
+LP 6 topology partitioning: node 33 to LP 2.
+LP 6 topology partitioning: node 34 to LP 2.
+LP 6 topology partitioning: node 35 to LP 2.
+LP 6 topology partitioning: node 36 to LP 2.
+LP 6 topology partitioning: node 37 to LP 2.
+LP 6 topology partitioning: node 38 to LP 2.
+LP 6 topology partitioning: node 39 to LP 2.
+LP 6 topology partitioning: node 40 to LP 2.
+LP 6 topology partitioning: node 41 to LP 2.
+LP 6 topology partitioning: node 42 to LP 2.
+LP 6 topology partitioning: node 43 to LP 2.
+LP 6 topology partitioning: node 44 to LP 2.
+LP 6 topology partitioning: node 45 to LP 2.
+LP 6 topology partitioning: node 46 to LP 2.
+LP 6 topology partitioning: node 47 to LP 2.
+LP 6 topology partitioning: node 48 to LP 3.
+LP 6 topology partitioning: node 49 to LP 3.
+LP 6 topology partitioning: node 50 to LP 3.
+LP 6 topology partitioning: node 51 to LP 3.
+LP 6 topology partitioning: node 52 to LP 3.
+LP 6 topology partitioning: node 53 to LP 3.
+LP 6 topology partitioning: node 54 to LP 3.
+LP 6 topology partitioning: node 55 to LP 3.
+LP 6 topology partitioning: node 56 to LP 3.
+LP 6 topology partitioning: node 57 to LP 3.
+LP 6 topology partitioning: node 58 to LP 3.
+LP 6 topology partitioning: node 59 to LP 3.
+LP 2 topology partitioning: node 132 to LP 3.
+LP 6 topology partitioning: node 60 to LP 3.
+LP 6 topology partitioning: node 61 to LP 3.
+LP 6 topology partitioning: node 62 to LP 3.
+LP 6 topology partitioning: node 63 to LP 3.
+LP 6 topology partitioning: node 64 to LP 4.
+LP 6 topology partitioning: node 65 to LP 4.
+LP 6 topology partitioning: node 66 to LP 4.
+LP 6 topology partitioning: node 67 to LP 4.
+LP 6 topology partitioning: node 68 to LP 4.
+LP 6 topology partitioning: node 69 to LP 4.
+LP 6 topology partitioning: node 70 to LP 4.
+LP 6 topology partitioning: node 71 to LP 4.
+LP 6 topology partitioning: node 72 to LP 4.
+LP 6 topology partitioning: node 73 to LP 4.
+LP 6 topology partitioning: node 74 to LP 4.
+LP 6 topology partitioning: node 75 to LP 4.
+LP 6 topology partitioning: node 76 to LP 4.
+LP 6 topology partitioning: node 77 to LP 4.
+LP 6 topology partitioning: node 78 to LP 4.
+LP 6 topology partitioning: node 79 to LP 4.
+LP 6 topology partitioning: node 80 to LP 5.
+LP 6 topology partitioning: node 81 to LP 5.
+LP 6 topology partitioning: node 82 to LP 5.
+LP 6 topology partitioning: node 83 to LP 5.
+LP 6 topology partitioning: node 84 to LP 5.
+LP 6 topology partitioning: node 85 to LP 5.
+LP 6 topology partitioning: node 86 to LP 5.
+LP 6 topology partitioning: node 87 to LP 5.
+LP 6 topology partitioning: node 88 to LP 5.
+LP 6 topology partitioning: node 89 to LP 5.
+LP 6 topology partitioning: node 90 to LP 5.
+LP 6 topology partitioning: node 91 to LP 5.
+LP 6 topology partitioning: node 92 to LP 5.
+LP 6 topology partitioning: node 93 to LP 5.
+LP 6 topology partitioning: node 94 to LP 5.
+LP 6 topology partitioning: node 95 to LP 5.
+LP 6 topology partitioning: node 96 to LP 6.
+LP 6 topology partitioning: node 97 to LP 6.
+LP 5 topology partitioning: node 132 to LP 3.
+LP 6 topology partitioning: node 98 to LP 6.
+LP 6 topology partitioning: node 99 to LP 6.
+LP 6 topology partitioning: node 100 to LP 6.
+LP 6 topology partitioning: node 101 to LP 6.
+LP 6 topology partitioning: node 102 to LP 6.
+LP 6 topology partitioning: node 103 to LP 6.
+LP 6 topology partitioning: node 104 to LP 6.
+LP 6 topology partitioning: node 105 to LP 6.
+LP 6 topology partitioning: node 106 to LP 6.
+LP 6 topology partitioning: node 107 to LP 6.
+LP 6 topology partitioning: node 108 to LP 6.
+LP 6 topology partitioning: node 109 to LP 6.
+LP 6 topology partitioning: node 110 to LP 6.
+LP 6 topology partitioning: node 111 to LP 6.
+LP 6 topology partitioning: node 112 to LP 7.
+LP 6 topology partitioning: node 113 to LP 7.
+LP 6 topology partitioning: node 114 to LP 7.
+LP 6 topology partitioning: node 115 to LP 7.
+LP 6 topology partitioning: node 116 to LP 7.
+LP 6 topology partitioning: node 117 to LP 7.
+LP 6 topology partitioning: node 118 to LP 7.
+LP 6 topology partitioning: node 119 to LP 7.
+LP 6 topology partitioning: node 120 to LP 7.
+LP 6 topology partitioning: node 121 to LP 7.
+LP 6 topology partitioning: node 122 to LP 7.
+LP 6 topology partitioning: node 123 to LP 7.
+LP 6 topology partitioning: node 124 to LP 7.
+LP 6 topology partitioning: node 125 to LP 7.
+LP 6 topology partitioning: node 126 to LP 7.
+LP 6 topology partitioning: node 127 to LP 7.
+LP 6 topology partitioning: node 128 to LP 1.
+LP 1 topology partitioning: node 133 to LP 4.
+LP 0 topology partitioning: node 133 to LP 4.
+LP 3 topology partitioning: node 0 to LP 0.
+LP 2 topology partitioning: node 133 to LP 4.
+LP 3 topology partitioning: node 1 to LP 0.
+LP 3 topology partitioning: node 2 to LP 0.
+LP 3 topology partitioning: node 3 to LP 0.
+LP 3 topology partitioning: node 4 to LP 0.
+LP 3 topology partitioning: node 5 to LP 0.
+LP 5 topology partitioning: node 133 to LP 4.
+LP 3 topology partitioning: node 6 to LP 0.
+LP 3 topology partitioning: node 7 to LP 0.
+LP 3 topology partitioning: node 8 to LP 0.
+LP 3 topology partitioning: node 9 to LP 0.
+LP 3 topology partitioning: node 10 to LP 0.
+LP 3 topology partitioning: node 11 to LP 0.
+LP 3 topology partitioning: node 12 to LP 0.
+LP 3 topology partitioning: node 13 to LP 0.
+LP 3 topology partitioning: node 14 to LP 0.
+LP 3 topology partitioning: node 15 to LP 0.
+LP 3 topology partitioning: node 16 to LP 1.
+LP 3 topology partitioning: node 17 to LP 1.
+LP 3 topology partitioning: node 18 to LP 1.
+LP 3 topology partitioning: node 19 to LP 1.
+LP 3 topology partitioning: node 20 to LP 1.
+LP 3 topology partitioning: node 21 to LP 1.
+LP 3 topology partitioning: node 22 to LP 1.
+LP 3 topology partitioning: node 23 to LP 1.
+LP 3 topology partitioning: node 24 to LP 1.
+LP 3 topology partitioning: node 25 to LP 1.
+LP 3 topology partitioning: node 26 to LP 1.
+LP 3 topology partitioning: node 27 to LP 1.
+LP 3 topology partitioning: node 28 to LP 1.
+LP 3 topology partitioning: node 29 to LP 1.
+LP 3 topology partitioning: node 30 to LP 1.
+LP 3 topology partitioning: node 31 to LP 1.
+LP 3 topology partitioning: node 32 to LP 2.
+LP 3 topology partitioning: node 33 to LP 2.
+LP 3 topology partitioning: node 34 to LP 2.
+LP 3 topology partitioning: node 35 to LP 2.
+LP 3 topology partitioning: node 36 to LP 2.
+LP 3 topology partitioning: node 37 to LP 2.
+LP 3 topology partitioning: node 38 to LP 2.
+LP 3 topology partitioning: node 39 to LP 2.
+LP 3 topology partitioning: node 40 to LP 2.
+LP 3 topology partitioning: node 41 to LP 2.
+LP 3 topology partitioning: node 42 to LP 2.
+LP 3 topology partitioning: node 43 to LP 2.
+LP 3 topology partitioning: node 44 to LP 2.
+LP 3 topology partitioning: node 45 to LP 2.
+LP 3 topology partitioning: node 46 to LP 2.
+LP 3 topology partitioning: node 47 to LP 2.
+LP 3 topology partitioning: node 48 to LP 3.
+LP 3 topology partitioning: node 49 to LP 3.
+LP 3 topology partitioning: node 50 to LP 3.
+LP 3 topology partitioning: node 51 to LP 3.
+LP 3 topology partitioning: node 52 to LP 3.
+LP 3 topology partitioning: node 53 to LP 3.
+LP 3 topology partitioning: node 54 to LP 3.
+LP 3 topology partitioning: node 55 to LP 3.
+LP 3 topology partitioning: node 56 to LP 3.
+LP 3 topology partitioning: node 57 to LP 3.
+LP 3 topology partitioning: node 58 to LP 3.
+LP 3 topology partitioning: node 59 to LP 3.
+LP 3 topology partitioning: node 60 to LP 3.
+LP 3 topology partitioning: node 61 to LP 3.
+LP 3 topology partitioning: node 62 to LP 3.
+LP 3 topology partitioning: node 63 to LP 3.
+LP 3 topology partitioning: node 64 to LP 4.
+LP 3 topology partitioning: node 65 to LP 4.
+LP 6 topology partitioning: node 129 to LP 2.
+LP 3 topology partitioning: node 66 to LP 4.
+LP 3 topology partitioning: node 67 to LP 4.
+LP 3 topology partitioning: node 68 to LP 4.
+LP 3 topology partitioning: node 69 to LP 4.
+LP 3 topology partitioning: node 70 to LP 4.
+LP 3 topology partitioning: node 71 to LP 4.
+LP 3 topology partitioning: node 72 to LP 4.
+LP 3 topology partitioning: node 73 to LP 4.
+LP 3 topology partitioning: node 74 to LP 4.
+LP 3 topology partitioning: node 75 to LP 4.
+LP 3 topology partitioning: node 76 to LP 4.
+LP 3 topology partitioning: node 77 to LP 4.
+LP 3 topology partitioning: node 78 to LP 4.
+LP 3 topology partitioning: node 79 to LP 4.
+LP 3 topology partitioning: node 80 to LP 5.
+LP 3 topology partitioning: node 81 to LP 5.
+LP 3 topology partitioning: node 82 to LP 5.
+LP 3 topology partitioning: node 83 to LP 5.
+LP 3 topology partitioning: node 84 to LP 5.
+LP 3 topology partitioning: node 85 to LP 5.
+LP 3 topology partitioning: node 86 to LP 5.
+LP 3 topology partitioning: node 87 to LP 5.
+LP 3 topology partitioning: node 88 to LP 5.
+LP 3 topology partitioning: node 89 to LP 5.
+LP 3 topology partitioning: node 90 to LP 5.
+LP 3 topology partitioning: node 91 to LP 5.
+LP 3 topology partitioning: node 92 to LP 5.
+LP 3 topology partitioning: node 93 to LP 5.
+LP 3 topology partitioning: node 94 to LP 5.
+LP 3 topology partitioning: node 95 to LP 5.
+LP 3 topology partitioning: node 96 to LP 6.
+LP 3 topology partitioning: node 97 to LP 6.
+LP 3 topology partitioning: node 98 to LP 6.
+LP 3 topology partitioning: node 99 to LP 6.
+LP 3 topology partitioning: node 100 to LP 6.
+LP 3 topology partitioning: node 101 to LP 6.
+LP 3 topology partitioning: node 102 to LP 6.
+LP 3 topology partitioning: node 103 to LP 6.
+LP 3 topology partitioning: node 104 to LP 6.
+LP 3 topology partitioning: node 105 to LP 6.
+LP 3 topology partitioning: node 106 to LP 6.
+LP 3 topology partitioning: node 107 to LP 6.
+LP 3 topology partitioning: node 108 to LP 6.
+LP 3 topology partitioning: node 109 to LP 6.
+LP 3 topology partitioning: node 110 to LP 6.
+LP 3 topology partitioning: node 111 to LP 6.
+LP 3 topology partitioning: node 112 to LP 7.
+LP 3 topology partitioning: node 113 to LP 7.
+LP 3 topology partitioning: node 114 to LP 7.
+LP 3 topology partitioning: node 115 to LP 7.
+LP 3 topology partitioning: node 116 to LP 7.
+LP 3 topology partitioning: node 117 to LP 7.
+LP 3 topology partitioning: node 118 to LP 7.
+LP 3 topology partitioning: node 119 to LP 7.
+LP 3 topology partitioning: node 120 to LP 7.
+LP 3 topology partitioning: node 121 to LP 7.
+LP 3 topology partitioning: node 122 to LP 7.
+LP 3 topology partitioning: node 123 to LP 7.
+LP 3 topology partitioning: node 124 to LP 7.
+LP 3 topology partitioning: node 125 to LP 7.
+LP 3 topology partitioning: node 126 to LP 7.
+LP 3 topology partitioning: node 127 to LP 7.
+LP 3 topology partitioning: node 128 to LP 1.
+LP 1 topology partitioning: node 134 to LP 5.
+LP 0 topology partitioning: node 134 to LP 5.
+LP 5 topology partitioning: node 134 to LP 5.
+LP 2 topology partitioning: node 134 to LP 5.
+LP 6 topology partitioning: node 130 to LP 0.
+LP 1 topology partitioning: node 135 to LP 3.
+LP 0 topology partitioning: node 135 to LP 3.
+LP 5 topology partitioning: node 135 to LP 3.
+LP 3 topology partitioning: node 129 to LP 2.
+LP 2 topology partitioning: node 135 to LP 3.
+LP 6 topology partitioning: node 131 to LP 1.
+LP 1 topology partitioning: node 136 to LP 0.
+LP 0 topology partitioning: node 136 to LP 0.
+LP 5 topology partitioning: node 136 to LP 0.
+LP 3 topology partitioning: node 130 to LP 0.
+LP 4 topology partitioning: node 0 to LP 0.
+LP 2 topology partitioning: node 136 to LP 0.
+LP 4 topology partitioning: node 1 to LP 0.
+LP 4 topology partitioning: node 2 to LP 0.
+LP 4 topology partitioning: node 3 to LP 0.
+LP 4 topology partitioning: node 4 to LP 0.
+LP 4 topology partitioning: node 5 to LP 0.
+LP 4 topology partitioning: node 6 to LP 0.
+LP 4 topology partitioning: node 7 to LP 0.
+LP 4 topology partitioning: node 8 to LP 0.
+LP 4 topology partitioning: node 9 to LP 0.
+LP 4 topology partitioning: node 10 to LP 0.
+LP 4 topology partitioning: node 11 to LP 0.
+LP 4 topology partitioning: node 12 to LP 0.
+LP 4 topology partitioning: node 13 to LP 0.
+LP 4 topology partitioning: node 14 to LP 0.
+LP 4 topology partitioning: node 15 to LP 0.
+LP 4 topology partitioning: node 16 to LP 1.
+LP 4 topology partitioning: node 17 to LP 1.
+LP 4 topology partitioning: node 18 to LP 1.
+LP 4 topology partitioning: node 19 to LP 1.
+LP 4 topology partitioning: node 20 to LP 1.
+LP 4 topology partitioning: node 21 to LP 1.
+LP 4 topology partitioning: node 22 to LP 1.
+LP 4 topology partitioning: node 23 to LP 1.
+LP 4 topology partitioning: node 24 to LP 1.
+LP 4 topology partitioning: node 25 to LP 1.
+LP 4 topology partitioning: node 26 to LP 1.
+LP 4 topology partitioning: node 27 to LP 1.
+LP 4 topology partitioning: node 28 to LP 1.
+LP 4 topology partitioning: node 29 to LP 1.
+LP 4 topology partitioning: node 30 to LP 1.
+LP 4 topology partitioning: node 31 to LP 1.
+LP 4 topology partitioning: node 32 to LP 2.
+LP 4 topology partitioning: node 33 to LP 2.
+LP 4 topology partitioning: node 34 to LP 2.
+LP 4 topology partitioning: node 35 to LP 2.
+LP 4 topology partitioning: node 36 to LP 2.
+LP 4 topology partitioning: node 37 to LP 2.
+LP 4 topology partitioning: node 38 to LP 2.
+LP 6 topology partitioning: node 132 to LP 3.
+LP 4 topology partitioning: node 39 to LP 2.
+LP 4 topology partitioning: node 40 to LP 2.
+LP 4 topology partitioning: node 41 to LP 2.
+LP 4 topology partitioning: node 42 to LP 2.
+LP 4 topology partitioning: node 43 to LP 2.
+LP 4 topology partitioning: node 44 to LP 2.
+LP 4 topology partitioning: node 45 to LP 2.
+LP 4 topology partitioning: node 46 to LP 2.
+LP 4 topology partitioning: node 47 to LP 2.
+LP 4 topology partitioning: node 48 to LP 3.
+LP 4 topology partitioning: node 49 to LP 3.
+LP 4 topology partitioning: node 50 to LP 3.
+LP 4 topology partitioning: node 51 to LP 3.
+LP 4 topology partitioning: node 52 to LP 3.
+LP 4 topology partitioning: node 53 to LP 3.
+LP 4 topology partitioning: node 54 to LP 3.
+LP 4 topology partitioning: node 55 to LP 3.
+LP 4 topology partitioning: node 56 to LP 3.
+LP 4 topology partitioning: node 57 to LP 3.
+LP 4 topology partitioning: node 58 to LP 3.
+LP 4 topology partitioning: node 59 to LP 3.
+LP 4 topology partitioning: node 60 to LP 3.
+LP 4 topology partitioning: node 61 to LP 3.
+LP 4 topology partitioning: node 62 to LP 3.
+LP 4 topology partitioning: node 63 to LP 3.
+LP 4 topology partitioning: node 64 to LP 4.
+LP 4 topology partitioning: node 65 to LP 4.
+LP 4 topology partitioning: node 66 to LP 4.
+LP 4 topology partitioning: node 67 to LP 4.
+LP 4 topology partitioning: node 68 to LP 4.
+LP 4 topology partitioning: node 69 to LP 4.
+LP 4 topology partitioning: node 70 to LP 4.
+LP 4 topology partitioning: node 71 to LP 4.
+LP 4 topology partitioning: node 72 to LP 4.
+LP 4 topology partitioning: node 73 to LP 4.
+LP 4 topology partitioning: node 74 to LP 4.
+LP 4 topology partitioning: node 75 to LP 4.
+LP 4 topology partitioning: node 76 to LP 4.
+LP 4 topology partitioning: node 77 to LP 4.
+LP 4 topology partitioning: node 78 to LP 4.
+LP 4 topology partitioning: node 79 to LP 4.
+LP 4 topology partitioning: node 80 to LP 5.
+LP 4 topology partitioning: node 81 to LP 5.
+LP 4 topology partitioning: node 82 to LP 5.
+LP 4 topology partitioning: node 83 to LP 5.
+LP 4 topology partitioning: node 84 to LP 5.
+LP 4 topology partitioning: node 85 to LP 5.
+LP 4 topology partitioning: node 86 to LP 5.
+LP 4 topology partitioning: node 87 to LP 5.
+LP 4 topology partitioning: node 88 to LP 5.
+LP 4 topology partitioning: node 89 to LP 5.
+LP 5 topology partitioning: node 137 to LP 1.
+LP 4 topology partitioning: node 90 to LP 5.
+LP 4 topology partitioning: node 91 to LP 5.
+LP 4 topology partitioning: node 92 to LP 5.
+LP 4 topology partitioning: node 93 to LP 5.
+LP 4 topology partitioning: node 94 to LP 5.
+LP 4 topology partitioning: node 95 to LP 5.
+LP 4 topology partitioning: node 96 to LP 6.
+LP 4 topology partitioning: node 97 to LP 6.
+LP 4 topology partitioning: node 98 to LP 6.
+LP 4 topology partitioning: node 99 to LP 6.
+LP 4 topology partitioning: node 100 to LP 6.
+LP 4 topology partitioning: node 101 to LP 6.
+LP 4 topology partitioning: node 102 to LP 6.
+LP 4 topology partitioning: node 103 to LP 6.
+LP 4 topology partitioning: node 104 to LP 6.
+LP 4 topology partitioning: node 105 to LP 6.
+LP 4 topology partitioning: node 106 to LP 6.
+LP 4 topology partitioning: node 107 to LP 6.
+LP 4 topology partitioning: node 108 to LP 6.
+LP 4 topology partitioning: node 109 to LP 6.
+LP 4 topology partitioning: node 110 to LP 6.
+LP 4 topology partitioning: node 111 to LP 6.
+LP 1 topology partitioning: node 137 to LP 1.
+LP 4 topology partitioning: node 112 to LP 7.
+LP 4 topology partitioning: node 113 to LP 7.
+LP 4 topology partitioning: node 114 to LP 7.
+LP 4 topology partitioning: node 115 to LP 7.
+LP 4 topology partitioning: node 116 to LP 7.
+LP 4 topology partitioning: node 117 to LP 7.
+LP 4 topology partitioning: node 118 to LP 7.
+LP 4 topology partitioning: node 119 to LP 7.
+LP 0 topology partitioning: node 137 to LP 1.
+LP 3 topology partitioning: node 131 to LP 1.
+LP 4 topology partitioning: node 120 to LP 7.
+LP 4 topology partitioning: node 121 to LP 7.
+LP 4 topology partitioning: node 122 to LP 7.
+LP 4 topology partitioning: node 123 to LP 7.
+LP 4 topology partitioning: node 124 to LP 7.
+LP 4 topology partitioning: node 125 to LP 7.
+LP 4 topology partitioning: node 126 to LP 7.
+LP 4 topology partitioning: node 127 to LP 7.
+LP 4 topology partitioning: node 128 to LP 1.
+LP 2 topology partitioning: node 137 to LP 1.
+LP 6 topology partitioning: node 133 to LP 4.
+LP 5 topology partitioning: node 138 to LP 2.
+LP 1 topology partitioning: node 138 to LP 2.
+LP 0 topology partitioning: node 138 to LP 2.
+LP 7 topology partitioning: node 0 to LP 0.
+LP 3 topology partitioning: node 132 to LP 3.
+LP 4 topology partitioning: node 129 to LP 2.
+LP 2 topology partitioning: node 138 to LP 2.
+LP 7 topology partitioning: node 1 to LP 0.
+LP 7 topology partitioning: node 2 to LP 0.
+LP 7 topology partitioning: node 3 to LP 0.
+LP 7 topology partitioning: node 4 to LP 0.
+LP 7 topology partitioning: node 5 to LP 0.
+LP 7 topology partitioning: node 6 to LP 0.
+LP 7 topology partitioning: node 7 to LP 0.
+LP 7 topology partitioning: node 8 to LP 0.
+LP 7 topology partitioning: node 9 to LP 0.
+LP 7 topology partitioning: node 10 to LP 0.
+LP 7 topology partitioning: node 11 to LP 0.
+LP 7 topology partitioning: node 12 to LP 0.
+LP 7 topology partitioning: node 13 to LP 0.
+LP 7 topology partitioning: node 14 to LP 0.
+LP 7 topology partitioning: node 15 to LP 0.
+LP 7 topology partitioning: node 16 to LP 1.
+LP 7 topology partitioning: node 17 to LP 1.
+LP 7 topology partitioning: node 18 to LP 1.
+LP 7 topology partitioning: node 19 to LP 1.
+LP 7 topology partitioning: node 20 to LP 1.
+LP 7 topology partitioning: node 21 to LP 1.
+LP 7 topology partitioning: node 22 to LP 1.
+LP 7 topology partitioning: node 23 to LP 1.
+LP 7 topology partitioning: node 24 to LP 1.
+LP 7 topology partitioning: node 25 to LP 1.
+LP 7 topology partitioning: node 26 to LP 1.
+LP 7 topology partitioning: node 27 to LP 1.
+LP 7 topology partitioning: node 28 to LP 1.
+LP 7 topology partitioning: node 29 to LP 1.
+LP 7 topology partitioning: node 30 to LP 1.
+LP 7 topology partitioning: node 31 to LP 1.
+LP 7 topology partitioning: node 32 to LP 2.
+LP 7 topology partitioning: node 33 to LP 2.
+LP 7 topology partitioning: node 34 to LP 2.
+LP 7 topology partitioning: node 35 to LP 2.
+LP 6 topology partitioning: node 134 to LP 5.
+LP 7 topology partitioning: node 36 to LP 2.
+LP 7 topology partitioning: node 37 to LP 2.
+LP 7 topology partitioning: node 38 to LP 2.
+LP 7 topology partitioning: node 39 to LP 2.
+LP 7 topology partitioning: node 40 to LP 2.
+LP 7 topology partitioning: node 41 to LP 2.
+LP 7 topology partitioning: node 42 to LP 2.
+LP 7 topology partitioning: node 43 to LP 2.
+LP 7 topology partitioning: node 44 to LP 2.
+LP 7 topology partitioning: node 45 to LP 2.
+LP 7 topology partitioning: node 46 to LP 2.
+LP 7 topology partitioning: node 47 to LP 2.
+LP 7 topology partitioning: node 48 to LP 3.
+LP 7 topology partitioning: node 49 to LP 3.
+LP 7 topology partitioning: node 50 to LP 3.
+LP 7 topology partitioning: node 51 to LP 3.
+LP 7 topology partitioning: node 52 to LP 3.
+LP 7 topology partitioning: node 53 to LP 3.
+LP 7 topology partitioning: node 54 to LP 3.
+LP 7 topology partitioning: node 55 to LP 3.
+LP 5 topology partitioning: node 139 to LP 0.
+LP 7 topology partitioning: node 56 to LP 3.
+LP 7 topology partitioning: node 57 to LP 3.
+LP 7 topology partitioning: node 58 to LP 3.
+LP 7 topology partitioning: node 59 to LP 3.
+LP 7 topology partitioning: node 60 to LP 3.
+LP 7 topology partitioning: node 61 to LP 3.
+LP 7 topology partitioning: node 62 to LP 3.
+LP 7 topology partitioning: node 63 to LP 3.
+LP 7 topology partitioning: node 64 to LP 4.
+LP 7 topology partitioning: node 65 to LP 4.
+LP 7 topology partitioning: node 66 to LP 4.
+LP 7 topology partitioning: node 67 to LP 4.
+LP 7 topology partitioning: node 68 to LP 4.
+LP 7 topology partitioning: node 69 to LP 4.
+LP 7 topology partitioning: node 70 to LP 4.
+LP 7 topology partitioning: node 71 to LP 4.
+LP 7 topology partitioning: node 72 to LP 4.
+LP 7 topology partitioning: node 73 to LP 4.
+LP 7 topology partitioning: node 74 to LP 4.
+LP 7 topology partitioning: node 75 to LP 4.
+LP 7 topology partitioning: node 76 to LP 4.
+LP 7 topology partitioning: node 77 to LP 4.
+LP 7 topology partitioning: node 78 to LP 4.
+LP 7 topology partitioning: node 79 to LP 4.
+LP 7 topology partitioning: node 80 to LP 5.
+LP 7 topology partitioning: node 81 to LP 5.
+LP 7 topology partitioning: node 82 to LP 5.
+LP 7 topology partitioning: node 83 to LP 5.
+LP 7 topology partitioning: node 84 to LP 5.
+LP 7 topology partitioning: node 85 to LP 5.
+LP 7 topology partitioning: node 86 to LP 5.
+LP 7 topology partitioning: node 87 to LP 5.
+LP 7 topology partitioning: node 88 to LP 5.
+LP 7 topology partitioning: node 89 to LP 5.
+LP 7 topology partitioning: node 90 to LP 5.
+LP 7 topology partitioning: node 91 to LP 5.
+LP 7 topology partitioning: node 92 to LP 5.
+LP 7 topology partitioning: node 93 to LP 5.
+LP 7 topology partitioning: node 94 to LP 5.
+LP 7 topology partitioning: node 95 to LP 5.
+LP 7 topology partitioning: node 96 to LP 6.
+LP 7 topology partitioning: node 97 to LP 6.
+LP 7 topology partitioning: node 98 to LP 6.
+LP 7 topology partitioning: node 99 to LP 6.
+LP 7 topology partitioning: node 100 to LP 6.
+LP 7 topology partitioning: node 101 to LP 6.
+LP 7 topology partitioning: node 102 to LP 6.
+LP 7 topology partitioning: node 103 to LP 6.
+LP 7 topology partitioning: node 104 to LP 6.
+LP 7 topology partitioning: node 105 to LP 6.
+LP 7 topology partitioning: node 106 to LP 6.
+LP 7 topology partitioning: node 107 to LP 6.
+LP 7 topology partitioning: node 108 to LP 6.
+LP 7 topology partitioning: node 109 to LP 6.
+LP 7 topology partitioning: node 110 to LP 6.
+LP 7 topology partitioning: node 111 to LP 6.
+LP 7 topology partitioning: node 112 to LP 7.
+LP 7 topology partitioning: node 113 to LP 7.
+LP 7 topology partitioning: node 114 to LP 7.
+LP 0 topology partitioning: node 139 to LP 0.
+LP 7 topology partitioning: node 115 to LP 7.
+LP 7 topology partitioning: node 116 to LP 7.
+LP 7 topology partitioning: node 117 to LP 7.
+LP 7 topology partitioning: node 118 to LP 7.
+LP 7 topology partitioning: node 119 to LP 7.
+LP 7 topology partitioning: node 120 to LP 7.
+LP 7 topology partitioning: node 121 to LP 7.
+LP 3 topology partitioning: node 133 to LP 4.
+LP 7 topology partitioning: node 122 to LP 7.
+LP 7 topology partitioning: node 123 to LP 7.
+LP 7 topology partitioning: node 124 to LP 7.
+LP 1 topology partitioning: node 139 to LP 0.
+LP 7 topology partitioning: node 125 to LP 7.
+LP 7 topology partitioning: node 126 to LP 7.
+LP 7 topology partitioning: node 127 to LP 7.
+LP 7 topology partitioning: node 128 to LP 1.
+LP 4 topology partitioning: node 130 to LP 0.
+LP 2 topology partitioning: node 139 to LP 0.
+LP 6 topology partitioning: node 135 to LP 3.
+LP 5 topology partitioning: node 140 to LP 5.
+LP 0 topology partitioning: node 140 to LP 5.
+LP 1 topology partitioning: node 140 to LP 5.
+LP 3 topology partitioning: node 134 to LP 5.
+LP 2 topology partitioning: node 140 to LP 5.
+LP 4 topology partitioning: node 131 to LP 1.
+LP 6 topology partitioning: node 136 to LP 0.
+LP 5 topology partitioning: node 141 to LP 3.
+LP 7 topology partitioning: node 129 to LP 2.
+LP 0 topology partitioning: node 141 to LP 3.
+LP 1 topology partitioning: node 141 to LP 3.
+LP 2 topology partitioning: node 141 to LP 3.
+LP 3 topology partitioning: node 135 to LP 3.
+LP 5 topology partitioning: node 142 to LP 4.
+LP 4 topology partitioning: node 132 to LP 3.
+LP 6 topology partitioning: node 137 to LP 1.
+LP 7 topology partitioning: node 130 to LP 0.
+LP 0 topology partitioning: node 142 to LP 4.
+LP 1 topology partitioning: node 142 to LP 4.
+LP 2 topology partitioning: node 142 to LP 4.
+LP 5 topology partitioning: node 143 to LP 5.
+LP 3 topology partitioning: node 136 to LP 0.
+LP 6 topology partitioning: node 138 to LP 2.
+LP 4 topology partitioning: node 133 to LP 4.
+LP 0 topology partitioning: node 143 to LP 5.
+LP 1 topology partitioning: node 143 to LP 5.
+LP 7 topology partitioning: node 131 to LP 1.
+LP 2 topology partitioning: node 143 to LP 5.
+LP 5 topology partitioning: node 144 to LP 2.
+LP 6 topology partitioning: node 139 to LP 0.
+LP 3 topology partitioning: node 137 to LP 1.
+LP 4 topology partitioning: node 134 to LP 5.
+LP 0 topology partitioning: node 144 to LP 2.
+LP 1 topology partitioning: node 144 to LP 2.
+LP 2 topology partitioning: node 144 to LP 2.
+LP 5 topology partitioning: node 145 to LP 0.
+LP 7 topology partitioning: node 132 to LP 3.
+LP 6 topology partitioning: node 140 to LP 5.
+LP 3 topology partitioning: node 138 to LP 2.
+LP 4 topology partitioning: node 135 to LP 3.
+LP 0 topology partitioning: node 145 to LP 0.
+LP 1 topology partitioning: node 145 to LP 0.
+LP 2 topology partitioning: node 145 to LP 0.
+LP 5 topology partitioning: node 146 to LP 1.
+LP 6 topology partitioning: node 141 to LP 3.
+LP 3 topology partitioning: node 139 to LP 0.
+LP 7 topology partitioning: node 133 to LP 4.
+LP 0 topology partitioning: node 146 to LP 1.
+LP 4 topology partitioning: node 136 to LP 0.
+LP 1 topology partitioning: node 146 to LP 1.
+LP 2 topology partitioning: node 146 to LP 1.
+LP 5 topology partitioning: node 147 to LP 2.
+LP 6 topology partitioning: node 142 to LP 4.
+LP 3 topology partitioning: node 140 to LP 5.
+LP 7 topology partitioning: node 134 to LP 5.
+LP 0 topology partitioning: node 147 to LP 2.
+LP 1 topology partitioning: node 147 to LP 2.
+LP 4 topology partitioning: node 137 to LP 1.
+LP 2 topology partitioning: node 147 to LP 2.
+LP 5 topology partitioning: node 148 to LP 4.
+LP 6 topology partitioning: node 143 to LP 5.
+LP 3 topology partitioning: node 141 to LP 3.
+LP 0 topology partitioning: node 148 to LP 4.
+LP 1 topology partitioning: node 148 to LP 4.
+LP 4 topology partitioning: node 138 to LP 2.
+LP 7 topology partitioning: node 135 to LP 3.
+LP 5 topology partitioning: node 149 to LP 5.
+LP 2 topology partitioning: node 148 to LP 4.
+LP 6 topology partitioning: node 144 to LP 2.
+LP 3 topology partitioning: node 142 to LP 4.
+LP 0 topology partitioning: node 149 to LP 5.
+LP 1 topology partitioning: node 149 to LP 5.
+LP 5 topology partitioning: node 150 to LP 3.
+LP 2 topology partitioning: node 149 to LP 5.
+LP 6 topology partitioning: node 145 to LP 0.
+LP 7 topology partitioning: node 136 to LP 0.
+LP 4 topology partitioning: node 139 to LP 0.
+LP 3 topology partitioning: node 143 to LP 5.
+LP 0 topology partitioning: node 150 to LP 3.
+LP 1 topology partitioning: node 150 to LP 3.
+LP 5 topology partitioning: node 151 to LP 4.
+LP 2 topology partitioning: node 150 to LP 3.
+LP 6 topology partitioning: node 146 to LP 1.
+LP 3 topology partitioning: node 144 to LP 2.
+LP 7 topology partitioning: node 137 to LP 1.
+LP 0 topology partitioning: node 151 to LP 4.
+LP 4 topology partitioning: node 140 to LP 5.
+LP 1 topology partitioning: node 151 to LP 4.
+LP 5 topology partitioning: node 152 to LP 1.
+LP 2 topology partitioning: node 151 to LP 4.
+LP 6 topology partitioning: node 147 to LP 2.
+LP 3 topology partitioning: node 145 to LP 0.
+LP 7 topology partitioning: node 138 to LP 2.
+LP 0 topology partitioning: node 152 to LP 1.
+LP 1 topology partitioning: node 152 to LP 1.
+LP 5 topology partitioning: node 153 to LP 2.
+LP 2 topology partitioning: node 152 to LP 1.
+LP 6 topology partitioning: node 148 to LP 4.
+LP 4 topology partitioning: node 141 to LP 3.
+LP 3 topology partitioning: node 146 to LP 1.
+LP 0 topology partitioning: node 153 to LP 2.
+LP 7 topology partitioning: node 139 to LP 0.
+LP 1 topology partitioning: node 153 to LP 2.
+LP 2 topology partitioning: node 153 to LP 2.
+LP 6 topology partitioning: node 149 to LP 5.
+LP 5 topology partitioning: node 154 to LP 0.
+LP 4 topology partitioning: node 142 to LP 4.
+LP 3 topology partitioning: node 147 to LP 2.
+LP 0 topology partitioning: node 154 to LP 0.
+LP 1 topology partitioning: node 154 to LP 0.
+LP 7 topology partitioning: node 140 to LP 5.
+LP 2 topology partitioning: node 154 to LP 0.
+LP 6 topology partitioning: node 150 to LP 3.
+LP 5 topology partitioning: node 155 to LP 1.
+LP 4 topology partitioning: node 143 to LP 5.
+LP 3 topology partitioning: node 148 to LP 4.
+LP 0 topology partitioning: node 155 to LP 1.
+LP 1 topology partitioning: node 155 to LP 1.
+LP 6 topology partitioning: node 151 to LP 4.
+LP 5 topology partitioning: node 156 to LP 3.
+LP 7 topology partitioning: node 141 to LP 3.
+LP 4 topology partitioning: node 144 to LP 2.
+LP 2 topology partitioning: node 155 to LP 1.
+LP 3 topology partitioning: node 149 to LP 5.
+LP 0 topology partitioning: node 156 to LP 3.
+LP 1 topology partitioning: node 156 to LP 3.
+LP 6 topology partitioning: node 152 to LP 1.
+LP 5 topology partitioning: node 157 to LP 4.
+LP 7 topology partitioning: node 142 to LP 4.
+LP 3 topology partitioning: node 150 to LP 3.
+LP 0 topology partitioning: node 157 to LP 4.
+LP 4 topology partitioning: node 145 to LP 0.
+LP 2 topology partitioning: node 156 to LP 3.
+LP 6 topology partitioning: node 153 to LP 2.
+LP 5 topology partitioning: node 158 to LP 5.
+LP 1 topology partitioning: node 157 to LP 4.
+LP 7 topology partitioning: node 143 to LP 5.
+LP 0 topology partitioning: node 158 to LP 5.
+LP 3 topology partitioning: node 151 to LP 4.
+LP 2 topology partitioning: node 157 to LP 4.
+LP 5 topology partitioning: node 159 to LP 3.
+LP 6 topology partitioning: node 154 to LP 0.
+LP 1 topology partitioning: node 158 to LP 5.
+LP 4 topology partitioning: node 146 to LP 1.
+LP 0 topology partitioning: node 159 to LP 3.
+LP 7 topology partitioning: node 144 to LP 2.
+LP 2 topology partitioning: node 158 to LP 5.
+LP 3 topology partitioning: node 152 to LP 1.
+LP 5 topology partitioning: node 160 to LP 0.
+LP 6 topology partitioning: node 155 to LP 1.
+LP 1 topology partitioning: node 159 to LP 3.
+LP 0 topology partitioning: node 160 to LP 0.
+LP 4 topology partitioning: node 147 to LP 2.
+LP 2 topology partitioning: node 159 to LP 3.
+LP 3 topology partitioning: node 153 to LP 2.
+LP 5 topology partitioning: node 161 to LP 1.
+LP 7 topology partitioning: node 145 to LP 0.
+LP 6 topology partitioning: node 156 to LP 3.
+LP 1 topology partitioning: node 160 to LP 0.
+LP 0 topology partitioning: node 161 to LP 1.
+LP 4 topology partitioning: node 148 to LP 4.
+LP 2 topology partitioning: node 160 to LP 0.
+LP 5 topology partitioning: node 162 to LP 2.
+LP 3 topology partitioning: node 154 to LP 0.
+LP 6 topology partitioning: node 157 to LP 4.
+LP 1 topology partitioning: node 161 to LP 1.
+LP 7 topology partitioning: node 146 to LP 1.
+LP 0 topology partitioning: node 162 to LP 2.
+LP 4 topology partitioning: node 149 to LP 5.
+LP 2 topology partitioning: node 161 to LP 1.
+LP 5 topology partitioning: node 163 to LP 0.
+LP 3 topology partitioning: node 155 to LP 1.
+LP 6 topology partitioning: node 158 to LP 5.
+LP 1 topology partitioning: node 162 to LP 2.
+LP 7 topology partitioning: node 147 to LP 2.
+LP 0 topology partitioning: node 163 to LP 0.
+LP 2 topology partitioning: node 162 to LP 2.
+LP 5 topology partitioning: node 164 to LP 5.
+LP 4 topology partitioning: node 150 to LP 3.
+LP 3 topology partitioning: node 156 to LP 3.
+LP 6 topology partitioning: node 159 to LP 3.
+LP 1 topology partitioning: node 163 to LP 0.
+LP 7 topology partitioning: node 148 to LP 4.
+LP 0 topology partitioning: node 164 to LP 5.
+LP 2 topology partitioning: node 163 to LP 0.
+LP 5 topology partitioning: node 165 to LP 3.
+LP 3 topology partitioning: node 157 to LP 4.
+LP 6 topology partitioning: node 160 to LP 0.
+LP 1 topology partitioning: node 164 to LP 5.
+LP 7 topology partitioning: node 149 to LP 5.
+LP 4 topology partitioning: node 151 to LP 4.
+LP 0 topology partitioning: node 165 to LP 3.
+LP 5 topology partitioning: node 166 to LP 4.
+LP 2 topology partitioning: node 164 to LP 5.
+LP 3 topology partitioning: node 158 to LP 5.
+LP 6 topology partitioning: node 161 to LP 1.
+LP 1 topology partitioning: node 165 to LP 3.
+LP 4 topology partitioning: node 152 to LP 1.
+LP 7 topology partitioning: node 150 to LP 3.
+LP 0 topology partitioning: node 166 to LP 4.
+LP 5 topology partitioning: node 167 to LP 5.
+LP 2 topology partitioning: node 165 to LP 3.
+LP 6 topology partitioning: node 162 to LP 2.
+LP 3 topology partitioning: node 159 to LP 3.
+LP 1 topology partitioning: node 166 to LP 4.
+LP 7 topology partitioning: node 151 to LP 4.
+LP 0 topology partitioning: node 167 to LP 5.
+LP 5 topology partitioning: node 168 to LP 2.
+LP 4 topology partitioning: node 153 to LP 2.
+LP 2 topology partitioning: node 166 to LP 4.
+LP 6 topology partitioning: node 163 to LP 0.
+LP 3 topology partitioning: node 160 to LP 0.
+LP 1 topology partitioning: node 167 to LP 5.
+LP 0 topology partitioning: node 168 to LP 2.
+LP 7 topology partitioning: node 152 to LP 1.
+LP 5 topology partitioning: node 169 to LP 0.
+LP 2 topology partitioning: node 167 to LP 5.
+LP 6 topology partitioning: node 164 to LP 5.
+LP 3 topology partitioning: node 161 to LP 1.
+LP 1 topology partitioning: node 168 to LP 2.
+LP 4 topology partitioning: node 154 to LP 0.
+LP 0 topology partitioning: node 169 to LP 0.
+LP 5 topology partitioning: node 170 to LP 1.
+LP 7 topology partitioning: node 153 to LP 2.
+LP 2 topology partitioning: node 168 to LP 2.
+LP 6 topology partitioning: node 165 to LP 3.
+LP 3 topology partitioning: node 162 to LP 2.
+LP 1 topology partitioning: node 169 to LP 0.
+LP 4 topology partitioning: node 155 to LP 1.
+LP 0 topology partitioning: node 170 to LP 1.
+LP 5 topology partitioning: node 171 to LP 2.
+LP 2 topology partitioning: node 169 to LP 0.
+LP 7 topology partitioning: node 154 to LP 0.
+LP 1 topology partitioning: node 170 to LP 1.
+LP 3 topology partitioning: node 163 to LP 0.
+LP 6 topology partitioning: node 166 to LP 4.
+LP 0 topology partitioning: node 171 to LP 2.
+LP 4 topology partitioning: node 156 to LP 3.
+LP 5 topology partitioning: node 172 to LP 4.
+LP 2 topology partitioning: node 170 to LP 1.
+LP 1 topology partitioning: node 171 to LP 2.
+LP 7 topology partitioning: node 155 to LP 1.
+LP 3 topology partitioning: node 164 to LP 5.
+LP 6 topology partitioning: node 167 to LP 5.
+LP 0 topology partitioning: node 172 to LP 4.
+LP 5 topology partitioning: node 173 to LP 5.
+LP 4 topology partitioning: node 157 to LP 4.
+LP 2 topology partitioning: node 171 to LP 2.
+LP 1 topology partitioning: node 172 to LP 4.
+LP 7 topology partitioning: node 156 to LP 3.
+LP 3 topology partitioning: node 165 to LP 3.
+LP 6 topology partitioning: node 168 to LP 2.
+LP 0 topology partitioning: node 173 to LP 5.
+LP 5 topology partitioning: node 174 to LP 3.
+LP 4 topology partitioning: node 158 to LP 5.
+LP 2 topology partitioning: node 172 to LP 4.
+LP 1 topology partitioning: node 173 to LP 5.
+LP 7 topology partitioning: node 157 to LP 4.
+LP 3 topology partitioning: node 166 to LP 4.
+LP 6 topology partitioning: node 169 to LP 0.
+LP 0 topology partitioning: node 174 to LP 3.
+LP 5 topology partitioning: node 175 to LP 4.
+LP 2 topology partitioning: node 173 to LP 5.
+LP 1 topology partitioning: node 174 to LP 3.
+LP 4 topology partitioning: node 159 to LP 3.
+LP 3 topology partitioning: node 167 to LP 5.
+LP 7 topology partitioning: node 158 to LP 5.
+LP 6 topology partitioning: node 170 to LP 1.
+LP 0 topology partitioning: node 175 to LP 4.
+LP 5 topology partitioning: node 176 to LP 1.
+LP 2 topology partitioning: node 174 to LP 3.
+LP 1 topology partitioning: node 175 to LP 4.
+LP 3 topology partitioning: node 168 to LP 2.
+LP 6 topology partitioning: node 171 to LP 2.
+LP 7 topology partitioning: node 159 to LP 3.
+LP 0 topology partitioning: node 176 to LP 1.
+LP 5 topology partitioning: node 177 to LP 2.
+LP 4 topology partitioning: node 160 to LP 0.
+LP 2 topology partitioning: node 175 to LP 4.
+LP 1 topology partitioning: node 176 to LP 1.
+LP 0 topology partitioning: node 177 to LP 2.
+LP 6 topology partitioning: node 172 to LP 4.
+LP 3 topology partitioning: node 169 to LP 0.
+LP 7 topology partitioning: node 160 to LP 0.
+LP 5 topology partitioning: node 178 to LP 0.
+LP 2 topology partitioning: node 176 to LP 1.
+LP 4 topology partitioning: node 161 to LP 1.
+LP 1 topology partitioning: node 177 to LP 2.
+LP 0 topology partitioning: node 178 to LP 0.
+LP 6 topology partitioning: node 173 to LP 5.
+LP 3 topology partitioning: node 170 to LP 1.
+LP 7 topology partitioning: node 161 to LP 1.
+LP 2 topology partitioning: node 177 to LP 2.
+LP 5 topology partitioning: node 179 to LP 1.
+LP 4 topology partitioning: node 162 to LP 2.
+LP 1 topology partitioning: node 178 to LP 0.
+LP 0 topology partitioning: node 179 to LP 1.
+LP 6 topology partitioning: node 174 to LP 3.
+LP 3 topology partitioning: node 171 to LP 2.
+LP 7 topology partitioning: node 162 to LP 2.
+LP 2 topology partitioning: node 178 to LP 0.
+LP 4 topology partitioning: node 163 to LP 0.
+LP 1 topology partitioning: node 179 to LP 1.
+LP 0 topology partitioning: node 180 to LP 3.
+LP 3 topology partitioning: node 172 to LP 4.
+LP 6 topology partitioning: node 175 to LP 4.
+LP 5 topology partitioning: node 180 to LP 3.
+LP 7 topology partitioning: node 163 to LP 0.
+LP 2 topology partitioning: node 179 to LP 1.
+LP 1 topology partitioning: node 180 to LP 3.
+LP 0 topology partitioning: node 181 to LP 4.
+LP 4 topology partitioning: node 164 to LP 5.
+LP 6 topology partitioning: node 176 to LP 1.
+LP 3 topology partitioning: node 173 to LP 5.
+LP 5 topology partitioning: node 181 to LP 4.
+LP 7 topology partitioning: node 164 to LP 5.
+LP 2 topology partitioning: node 180 to LP 3.
+LP 1 topology partitioning: node 181 to LP 4.
+LP 0 topology partitioning: node 182 to LP 5.
+LP 4 topology partitioning: node 165 to LP 3.
+LP 6 topology partitioning: node 177 to LP 2.
+LP 3 topology partitioning: node 174 to LP 3.
+LP 5 topology partitioning: node 182 to LP 5.
+LP 2 topology partitioning: node 181 to LP 4.
+LP 7 topology partitioning: node 165 to LP 3.
+LP 1 topology partitioning: node 182 to LP 5.
+LP 0 topology partitioning: node 183 to LP 3.
+LP 6 topology partitioning: node 178 to LP 0.
+LP 3 topology partitioning: node 175 to LP 4.
+LP 4 topology partitioning: node 166 to LP 4.
+LP 5 topology partitioning: node 183 to LP 3.
+LP 2 topology partitioning: node 182 to LP 5.
+LP 7 topology partitioning: node 166 to LP 4.
+LP 1 topology partitioning: node 183 to LP 3.
+LP 0 topology partitioning: node 184 to LP 0.
+LP 6 topology partitioning: node 179 to LP 1.
+LP 3 topology partitioning: node 176 to LP 1.
+LP 4 topology partitioning: node 167 to LP 5.
+LP 5 topology partitioning: node 184 to LP 0.
+LP 2 topology partitioning: node 183 to LP 3.
+LP 7 topology partitioning: node 167 to LP 5.
+LP 1 topology partitioning: node 184 to LP 0.
+LP 0 topology partitioning: node 185 to LP 1.
+LP 6 topology partitioning: node 180 to LP 3.
+LP 3 topology partitioning: node 177 to LP 2.
+LP 5 topology partitioning: node 185 to LP 1.
+LP 4 topology partitioning: node 168 to LP 2.
+LP 2 topology partitioning: node 184 to LP 0.
+LP 1 topology partitioning: node 185 to LP 1.
+LP 7 topology partitioning: node 168 to LP 2.
+LP 0 topology partitioning: node 186 to LP 2.
+LP 6 topology partitioning: node 181 to LP 4.
+LP 3 topology partitioning: node 178 to LP 0.
+LP 5 topology partitioning: node 186 to LP 2.
+LP 2 topology partitioning: node 185 to LP 1.
+LP 4 topology partitioning: node 169 to LP 0.
+LP 1 topology partitioning: node 186 to LP 2.
+LP 7 topology partitioning: node 169 to LP 0.
+LP 0 topology partitioning: node 187 to LP 0.
+LP 6 topology partitioning: node 182 to LP 5.
+LP 3 topology partitioning: node 179 to LP 1.
+LP 5 topology partitioning: node 187 to LP 0.
+LP 2 topology partitioning: node 186 to LP 2.
+LP 4 topology partitioning: node 170 to LP 1.
+LP 1 topology partitioning: node 187 to LP 0.
+LP 6 topology partitioning: node 183 to LP 3.
+LP 7 topology partitioning: node 170 to LP 1.
+LP 0 topology partitioning: node 188 to LP 5.
+LP 3 topology partitioning: node 180 to LP 3.
+LP 5 topology partitioning: node 188 to LP 5.
+LP 2 topology partitioning: node 187 to LP 0.
+LP 4 topology partitioning: node 171 to LP 2.
+LP 1 topology partitioning: node 188 to LP 5.
+LP 6 topology partitioning: node 184 to LP 0.
+LP 0 topology partitioning: node 189 to LP 3.
+LP 7 topology partitioning: node 171 to LP 2.
+LP 3 topology partitioning: node 181 to LP 4.
+LP 5 topology partitioning: node 189 to LP 3.
+LP 2 topology partitioning: node 188 to LP 5.
+LP 4 topology partitioning: node 172 to LP 4.
+LP 1 topology partitioning: node 189 to LP 3.
+LP 6 topology partitioning: node 185 to LP 1.
+LP 0 topology partitioning: node 190 to LP 4.
+LP 3 topology partitioning: node 182 to LP 5.
+LP 7 topology partitioning: node 172 to LP 4.
+LP 5 topology partitioning: node 190 to LP 4.
+LP 2 topology partitioning: node 189 to LP 3.
+LP 4 topology partitioning: node 173 to LP 5.
+LP 1 topology partitioning: node 190 to LP 4.
+LP 6 topology partitioning: node 186 to LP 2.
+LP 3 topology partitioning: node 183 to LP 3.
+LP 0 topology partitioning: node 191 to LP 5.
+LP 5 topology partitioning: node 191 to LP 5.
+LP 7 topology partitioning: node 173 to LP 5.
+LP 2 topology partitioning: node 190 to LP 4.
+LP 1 topology partitioning: node 191 to LP 5.
+LP 6 topology partitioning: node 187 to LP 0.
+LP 4 topology partitioning: node 174 to LP 3.
+LP 3 topology partitioning: node 184 to LP 0.
+LP 0 topology partitioning: node 192 to LP 6.
+LP 5 topology partitioning: node 192 to LP 6.
+LP 2 topology partitioning: node 191 to LP 5.
+LP 7 topology partitioning: node 174 to LP 3.
+LP 1 topology partitioning: node 192 to LP 6.
+LP 6 topology partitioning: node 188 to LP 5.
+LP 3 topology partitioning: node 185 to LP 1.
+LP 5 topology partitioning: node 193 to LP 7.
+LP 0 topology partitioning: node 193 to LP 7.
+LP 2 topology partitioning: node 192 to LP 6.
+LP 7 topology partitioning: node 175 to LP 4.
+LP 4 topology partitioning: node 175 to LP 4.
+LP 1 topology partitioning: node 193 to LP 7.
+LP 6 topology partitioning: node 189 to LP 3.
+LP 3 topology partitioning: node 186 to LP 2.
+LP 5 topology partitioning: node 194 to LP 6.
+LP 2 topology partitioning: node 193 to LP 7.
+LP 7 topology partitioning: node 176 to LP 1.
+LP 0 topology partitioning: node 194 to LP 6.
+LP 1 topology partitioning: node 194 to LP 6.
+LP 6 topology partitioning: node 190 to LP 4.
+LP 3 topology partitioning: node 187 to LP 0.
+LP 5 topology partitioning: node 195 to LP 7.
+LP 4 topology partitioning: node 176 to LP 1.
+LP 2 topology partitioning: node 194 to LP 6.
+LP 7 topology partitioning: node 177 to LP 2.
+LP 1 topology partitioning: node 195 to LP 7.
+LP 6 topology partitioning: node 191 to LP 5.
+LP 0 topology partitioning: node 195 to LP 7.
+LP 3 topology partitioning: node 188 to LP 5.
+LP 5 topology partitioning: node 196 to LP 6.
+LP 2 topology partitioning: node 195 to LP 7.
+LP 7 topology partitioning: node 178 to LP 0.
+LP 1 topology partitioning: node 196 to LP 6.
+LP 4 topology partitioning: node 177 to LP 2.
+LP 6 topology partitioning: node 192 to LP 6.
+LP 0 topology partitioning: node 196 to LP 6.
+LP 5 topology partitioning: node 197 to LP 7.
+LP 3 topology partitioning: node 189 to LP 3.
+LP 2 topology partitioning: node 196 to LP 6.
+LP 1 topology partitioning: node 197 to LP 7.
+LP 7 topology partitioning: node 179 to LP 1.
+LP 6 topology partitioning: node 193 to LP 7.
+LP 0 topology partitioning: node 197 to LP 7.
+LP 5 topology partitioning: node 198 to LP 6.
+LP 3 topology partitioning: node 190 to LP 4.
+LP 4 topology partitioning: node 178 to LP 0.
+LP 2 topology partitioning: node 197 to LP 7.
+LP 1 topology partitioning: node 198 to LP 6.
+LP 6 topology partitioning: node 194 to LP 6.
+LP 7 topology partitioning: node 180 to LP 3.
+LP 5 topology partitioning: node 199 to LP 7.
+LP 0 topology partitioning: node 198 to LP 6.
+LP 3 topology partitioning: node 191 to LP 5.
+LP 4 topology partitioning: node 179 to LP 1.
+LP 1 topology partitioning: node 199 to LP 7.
+LP 6 topology partitioning: node 195 to LP 7.
+LP 5 topology partitioning: node 200 to LP 6.
+LP 0 topology partitioning: node 199 to LP 7.
+LP 7 topology partitioning: node 181 to LP 4.
+LP 3 topology partitioning: node 192 to LP 6.
+LP 2 topology partitioning: node 198 to LP 6.
+LP 4 topology partitioning: node 180 to LP 3.
+LP 6 topology partitioning: node 196 to LP 6.
+LP 1 topology partitioning: node 200 to LP 6.
+LP 5 topology partitioning: node 201 to LP 7.
+LP 0 topology partitioning: node 200 to LP 6.
+LP 3 topology partitioning: node 193 to LP 7.
+LP 7 topology partitioning: node 182 to LP 5.
+LP 4 topology partitioning: node 181 to LP 4.
+LP 2 topology partitioning: node 199 to LP 7.
+LP 6 topology partitioning: node 197 to LP 7.
+LP 5 topology partitioning: node 202 to LP 6.
+LP 0 topology partitioning: node 201 to LP 7.
+LP 0 topology partitioning: node 202 to LP 6.
+LP 1 topology partitioning: node 201 to LP 7.
+LP 1 topology partitioning: node 202 to LP 6.
+LP 2 topology partitioning: node 200 to LP 6.
+LP 3 topology partitioning: node 194 to LP 6.
+LP 3 topology partitioning: node 195 to LP 7.
+LP 4 topology partitioning: node 182 to LP 5.
+LP 5 topology partitioning: node 203 to LP 7.
+LP 6 topology partitioning: node 198 to LP 6.
+LP 7 topology partitioning: node 183 to LP 3.
+LP 7 topology partitioning: node 184 to LP 0.
+LP 4 topology partitioning: node 183 to LP 3.
+LP 6 topology partitioning: node 199 to LP 7.
+LP 5 topology partitioning: node 204 to LP 6.
+LP 1 topology partitioning: node 203 to LP 7.
+LP 0 topology partitioning: node 203 to LP 7.
+LP 3 topology partitioning: node 196 to LP 6.
+LP 7 topology partitioning: node 185 to LP 1.
+LP 4 topology partitioning: node 184 to LP 0.
+LP 6 topology partitioning: node 200 to LP 6.
+LP 5 topology partitioning: node 205 to LP 7.
+LP 2 topology partitioning: node 201 to LP 7.
+LP 1 topology partitioning: node 204 to LP 6.
+LP 0 topology partitioning: node 204 to LP 6.
+LP 3 topology partitioning: node 197 to LP 7.
+LP 7 topology partitioning: node 186 to LP 2.
+LP 6 topology partitioning: node 201 to LP 7.
+LP 5 topology partitioning: node 206 to LP 6.
+LP 4 topology partitioning: node 185 to LP 1.
+LP 1 topology partitioning: node 205 to LP 7.
+LP 3 topology partitioning: node 198 to LP 6.
+LP 0 topology partitioning: node 205 to LP 7.
+LP 2 topology partitioning: node 202 to LP 6.
+LP 7 topology partitioning: node 187 to LP 0.
+LP 6 topology partitioning: node 202 to LP 6.
+LP 5 topology partitioning: node 207 to LP 7.
+LP 1 topology partitioning: node 206 to LP 6.
+LP 3 topology partitioning: node 199 to LP 7.
+LP 4 topology partitioning: node 186 to LP 2.
+LP 0 topology partitioning: node 206 to LP 6.
+LP 7 topology partitioning: node 188 to LP 5.
+LP 6 topology partitioning: node 203 to LP 7.
+LP 4 topology partitioning: node 187 to LP 0.
+LP 1 topology partitioning: node 207 to LP 7.
+LP 2 topology partitioning: node 203 to LP 7.
+LP 3 topology partitioning: node 200 to LP 6.
+LP 0 topology partitioning: node 207 to LP 7.
+LP 6 topology partitioning: node 204 to LP 6.
+LP 7 topology partitioning: node 189 to LP 3.
+LP 4 topology partitioning: node 188 to LP 5.
+LP 3 topology partitioning: node 201 to LP 7.
+LP 2 topology partitioning: node 204 to LP 6.
+LP 6 topology partitioning: node 205 to LP 7.
+LP 7 topology partitioning: node 190 to LP 4.
+LP 3 topology partitioning: node 202 to LP 6.
+LP 4 topology partitioning: node 189 to LP 3.
+LP 6 topology partitioning: node 206 to LP 6.
+LP 7 topology partitioning: node 191 to LP 5.
+LP 3 topology partitioning: node 203 to LP 7.
+LP 2 topology partitioning: node 205 to LP 7.
+LP 4 topology partitioning: node 190 to LP 4.
+LP 6 topology partitioning: node 207 to LP 7.
+LP 3 topology partitioning: node 204 to LP 6.
+LP 7 topology partitioning: node 192 to LP 6.
+LP 4 topology partitioning: node 191 to LP 5.
+LP 2 topology partitioning: node 206 to LP 6.
+LP 3 topology partitioning: node 205 to LP 7.
+LP 7 topology partitioning: node 193 to LP 7.
+LP 4 topology partitioning: node 192 to LP 6.
+LP 3 topology partitioning: node 206 to LP 6.
+LP 2 topology partitioning: node 207 to LP 7.
+LP 7 topology partitioning: node 194 to LP 6.
+LP 4 topology partitioning: node 193 to LP 7.
+LP 3 topology partitioning: node 207 to LP 7.
+LP 7 topology partitioning: node 195 to LP 7.
+LP 4 topology partitioning: node 194 to LP 6.
+LP 7 topology partitioning: node 196 to LP 6.
+LP 4 topology partitioning: node 195 to LP 7.
+LP 7 topology partitioning: node 197 to LP 7.
+LP 4 topology partitioning: node 196 to LP 6.
+LP 7 topology partitioning: node 198 to LP 6.
+LP 4 topology partitioning: node 197 to LP 7.
+LP 7 topology partitioning: node 199 to LP 7.
+LP 4 topology partitioning: node 198 to LP 6.
+LP 7 topology partitioning: node 200 to LP 6.
+LP 4 topology partitioning: node 199 to LP 7.
+LP 7 topology partitioning: node 201 to LP 7.
+LP 4 topology partitioning: node 200 to LP 6.
+LP 7 topology partitioning: node 202 to LP 6.
+LP 4 topology partitioning: node 201 to LP 7.
+LP 7 topology partitioning: node 203 to LP 7.
+LP 4 topology partitioning: node 202 to LP 6.
+LP 7 topology partitioning: node 204 to LP 6.
+LP 4 topology partitioning: node 203 to LP 7.
+LP 7 topology partitioning: node 205 to LP 7.
+LP 4 topology partitioning: node 204 to LP 6.
+LP 7 topology partitioning: node 206 to LP 6.
+LP 4 topology partitioning: node 205 to LP 7.
+LP 7 topology partitioning: node 207 to LP 7.
+LP 4 topology partitioning: node 206 to LP 6.
+LP 4 topology partitioning: node 207 to LP 7.
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+LP 2: add flow 32 to 95
+LP 6: add flow 110 to 17
+LP 7: add flow 126 to 1
+LP 1: add flow 16 to 111
+LP 5: add flow 94 to 33
+LP 3: add flow 48 to 79
+LP 1: add flow 18 to 109
+LP 2: add flow 34 to 93
+LP 4: add flow 78 to 49
+LP 5: add flow 92 to 35
+LP 6: add flow 108 to 19
+LP 7: add flow 124 to 3
+LP 0: add flow 0 to 127
+LP 2: add flow 36 to 91
+LP 5: add flow 90 to 37
+LP 7: add flow 122 to 5
+LP 6: add flow 106 to 21
+LP 1: add flow 20 to 107
+LP 5: add flow 88 to 39
+LP 7: add flow 120 to 7
+LP 1: add flow 22 to 105
+LP 2: add flow 38 to 89
+LP 6: add flow 104 to 23
+LP 7: add flow 118 to 9
+LP 5: add flow 86 to 41
+LP 7: add flow 116 to 11
+LP 1: add flow 24 to 103
+LP 3: add flow 50 to 77
+LP 6: add flow 102 to 25
+LP 2: add flow 40 to 87
+LP 4: add flow 76 to 51
+LP 7: add flow 114 to 13
+LP 1: add flow 26 to 101
+LP 5: add flow 84 to 43
+LP 3: add flow 52 to 75
+LP 7: add flow 112 to 15
+LP 1: add flow 28 to 99
+LP 2: add flow 42 to 85
+LP 6: add flow 100 to 27
+LP 4: add flow 74 to 53
+LP 5: add flow 82 to 45
+LP 1: add flow 30 to 97
+LP 3: add flow 54 to 73
+LP 2: add flow 44 to 83
+LP 6: add flow 98 to 29
+LP 4: add flow 72 to 55
+LP 5: add flow 80 to 47
+LP 2: add flow 46 to 81
+LP 3: add flow 56 to 71
+LP 0: add flow 2 to 125
+LP 6: add flow 96 to 31
+LP 4: add flow 70 to 57
+LP 0: add flow 4 to 123
+LP 3: add flow 58 to 69
+LP 0: add flow 6 to 121
+LP 4: add flow 68 to 59
+LP 0: add flow 8 to 119
+LP 3: add flow 60 to 67
+LP 4: add flow 66 to 61
+LP 0: add flow 10 to 117
+LP 0: add flow 12 to 115
+LP 3: add flow 62 to 65
+LP 4: add flow 64 to 63
+LP 0: add flow 14 to 113
+4947.95
+4949.59
+4949.3
+4948.11
+4949.32
+4947.98
+4946.56
+4949.56

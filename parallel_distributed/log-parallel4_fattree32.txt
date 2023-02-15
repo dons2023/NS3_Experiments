@@ -1,0 +1,158 @@
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+[ 693/1593] cxx: scratch/distributed-third.cc -> build/scratch/distributed-third.cc.4.o
+[ 693/1593] cxx: scratch/distributed-third.cc -> build/scratch/distributed-third.cc.4.o
+[ 693/1593] cxx: scratch/distributed-third.cc -> build/scratch/distributed-third.cc.4.o
+[ 693/1593] cxx: scratch/distributed-third.cc -> build/scratch/distributed-third.cc.4.o
+[1587/1593] cxxprogram: build/scratch/distributed-third.cc.4.o -> build/scratch/distributed-third
+[1587/1593] cxxprogram: build/scratch/distributed-third.cc.4.o -> build/scratch/distributed-third
+[1586/1593] cxxprogram: build/scratch/distributed-third.cc.4.o -> build/scratch/distributed-third
+[1583/1593] cxxprogram: build/scratch/distributed-third.cc.4.o -> build/scratch/distributed-third
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (5.693s)
+Traceback (most recent call last):
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f/waflib/Scripting.py", line 97, in waf_entry_point
+    run_commands()
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f/waflib/Scripting.py", line 155, in run_commands
+    run_command('shutdown')
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f/waflib/Scripting.py", line 146, in run_command
+    ctx.execute()
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f/waflib/Context.py", line 87, in execute
+    self.recurse([os.path.dirname(g_module.root_path)])
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f/waflib/Context.py", line 128, in recurse
+    user_function(self)
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/wscript", line 913, in shutdown
+    visualize=Options.options.visualize)
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/wutils.py", line 215, in run_program
+    return run_argv(execvec, env, cwd=cwd)
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/wutils.py", line 132, in run_argv
+    retval = subprocess.Popen(argv, env=proc_env, cwd=cwd).wait()
+  File "/usr/lib/python2.7/subprocess.py", line 711, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1343, in _execute_child
+    raise child_exception
+OSError: [Errno 26] Text file busy
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (5.734s)
+Traceback (most recent call last):
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f/waflib/Scripting.py", line 97, in waf_entry_point
+    run_commands()
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f/waflib/Scripting.py", line 155, in run_commands
+    run_command('shutdown')
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f/waflib/Scripting.py", line 146, in run_command
+    ctx.execute()
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f/waflib/Context.py", line 87, in execute
+    self.recurse([os.path.dirname(g_module.root_path)])
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f/waflib/Context.py", line 128, in recurse
+    user_function(self)
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/wscript", line 913, in shutdown
+    visualize=Options.options.visualize)
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/wutils.py", line 215, in run_program
+    return run_argv(execvec, env, cwd=cwd)
+  File "/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/wutils.py", line 132, in run_argv
+    retval = subprocess.Popen(argv, env=proc_env, cwd=cwd).wait()
+  File "/usr/lib/python2.7/subprocess.py", line 711, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1343, in _execute_child
+    raise child_exception
+OSError: [Errno 26] Text file busy
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (6.010s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+'build' finished successfully (6.111s)
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree32_topo.txt
+FLOW_FILE			mix/fattree32_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel4_fattree32.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel4_fattree32.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel4_fattree32.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel4_fattree32.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree32_topo.txt
+FLOW_FILE			mix/fattree32_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel4_fattree32.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel4_fattree32.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel4_fattree32.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel4_fattree32.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000

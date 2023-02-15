@@ -1,0 +1,2856 @@
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Entering directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.384s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.358s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.355s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.344s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.394s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.393s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.403s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.396s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.399s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.386s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.407s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.402s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.402s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.402s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.404s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.396s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.405s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.412s)
+'build' finished successfully (1.407s)
+'build' finished successfully (1.409s)
+'build' finished successfully (1.403s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.408s)
+'build' finished successfully (1.409s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.411s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.410s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.411s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.386s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.427s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.400s)
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.416s)
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.439s)
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+Waf: Leaving directory `/home/dons2023/NS-ECS/distributed/High-Precision-Congestion-Control/simulation/build'
+'build' finished successfully (1.435s)
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+PACKET_PAYLOAD_SIZE		1452
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+ACK_HIGH_PRIO		0
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+ENABLE_QCN			No
+USE_DYNAMIC_PFC_THRESHOLD	Yes
+PACKET_PAYLOAD_SIZE		1452
+TOPOLOGY_FILE			mix/fattree4_topo.txt
+FLOW_FILE			mix/fattree4_flow.txt
+TRACE_FILE			mix/trace.txt
+TRACE_OUTPUT_FILE		parallel_distributed/trace_result_parallel32_fattree4.tr
+FCT_OUTPUT_FILE		parallel_distributed/fct_parallel32_fattree4.txt
+PFC_OUTPUT_FILE				parallel_distributed/pfc_parallel32_fattree4.txt
+SIMULATOR_STOP_TIME		4
+CC_MODE		8
+ALPHA_RESUME_INTERVAL		1
+RATE_DECREASE_INTERVAL		4
+CLAMP_TARGET_RATE		No
+RP_TIMER			900
+EWMA_GAIN			0.00390625
+FAST_RECOVERY_TIMES		1
+RATE_AI				50Mb/s
+RATE_HAI			100Mb/s
+MIN_RATE		100Mb/s
+DCTCP_RATE_AI				1000Mb/s
+ERROR_RATE_PER_LINK		0
+L2_CHUNK_SIZE			4000
+L2_ACK_INTERVAL			1
+L2_BACK_TO_ZERO			No
+HAS_WIN		1
+GLOBAL_T		1
+VAR_WIN		1
+FAST_REACT		1
+U_TARGET		0.95
+MI_THRESH		0
+INT_MULTI				1
+MULTI_RATE				0
+SAMPLE_FEEDBACK				0
+PINT_LOG_BASE				1.05
+PINT_PROB				1
+RATE_BOUND		1
+ACK_HIGH_PRIO		0
+LINK_DOWN				0 0 0
+ENABLE_TRACE				0
+KMAX_MAP				 25000000000 400 50000000000 800 100000000000 1600
+KMIN_MAP				 25000000000 100 50000000000 200 100000000000 400
+PMAX_MAP				 25000000000 0.2 50000000000 0.2 100000000000 0.2
+BUFFER_SIZE				32
+QLEN_MON_FILE				parallel_distributed/qlen_parallel32_fattree4.txt
+QLEN_MON_START				2000000000
+QLEN_MON_END				2010000000
+LP 13 topology partitioning: node 0 to LP 0.
+LP 14 topology partitioning: node 0 to LP 0.
+LP 0 topology partitioning: node 0 to LP 0.
+LP 3 topology partitioning: node 0 to LP 0.
+LP 5 topology partitioning: node 0 to LP 0.
+LP 6 topology partitioning: node 0 to LP 0.
+LP 8 topology partitioning: node 0 to LP 0.
+LP 11 topology partitioning: node 0 to LP 0.
+LP 2 topology partitioning: node 0 to LP 0.
+LP 7 topology partitioning: node 0 to LP 0.
+LP 15 topology partitioning: node 0 to LP 0.
+LP 24 topology partitioning: node 0 to LP 0.
+LP 29 topology partitioning: node 0 to LP 0.
+LP 30 topology partitioning: node 0 to LP 0.
+LP 4 topology partitioning: node 0 to LP 0.
+LP 19 topology partitioning: node 0 to LP 0.
+LP 22 topology partitioning: node 0 to LP 0.
+LP 23 topology partitioning: node 0 to LP 0.
+LP 16 topology partitioning: node 0 to LP 0.
+LP 20 topology partitioning: node 0 to LP 0.
+LP 21 topology partitioning: node 0 to LP 0.
+LP 31 topology partitioning: node 0 to LP 0.
+LP 1 topology partitioning: node 0 to LP 0.
+LP 18 topology partitioning: node 0 to LP 0.
+LP 26 topology partitioning: node 0 to LP 0.
+LP 27 topology partitioning: node 0 to LP 0.
+LP 17 topology partitioning: node 0 to LP 0.
+LP 28 topology partitioning: node 0 to LP 0.
+LP 0 topology partitioning: node 1 to LP 1.
+LP 2 topology partitioning: node 1 to LP 1.
+LP 3 topology partitioning: node 1 to LP 1.
+LP 4 topology partitioning: node 1 to LP 1.
+LP 5 topology partitioning: node 1 to LP 1.
+LP 6 topology partitioning: node 1 to LP 1.
+LP 7 topology partitioning: node 1 to LP 1.
+LP 8 topology partitioning: node 1 to LP 1.
+LP 10 topology partitioning: node 0 to LP 0.
+LP 11 topology partitioning: node 1 to LP 1.
+LP 12 topology partitioning: node 0 to LP 0.
+LP 13 topology partitioning: node 1 to LP 1.
+LP 13 topology partitioning: node 2 to LP 2.
+LP 15 topology partitioning: node 1 to LP 1.
+LP 15 topology partitioning: node 2 to LP 2.
+LP 16 topology partitioning: node 1 to LP 1.
+LP 16 topology partitioning: node 2 to LP 2.
+LP 19 topology partitioning: node 1 to LP 1.
+LP 19 topology partitioning: node 2 to LP 2.
+LP 20 topology partitioning: node 1 to LP 1.
+LP 20 topology partitioning: node 2 to LP 2.
+LP 21 topology partitioning: node 1 to LP 1.
+LP 21 topology partitioning: node 2 to LP 2.
+LP 22 topology partitioning: node 1 to LP 1.
+LP 22 topology partitioning: node 2 to LP 2.
+LP 23 topology partitioning: node 1 to LP 1.
+LP 23 topology partitioning: node 2 to LP 2.
+LP 24 topology partitioning: node 1 to LP 1.
+LP 24 topology partitioning: node 2 to LP 2.
+LP 29 topology partitioning: node 1 to LP 1.
+LP 29 topology partitioning: node 2 to LP 2.
+LP 29 topology partitioning: node 3 to LP 3.
+LP 30 topology partitioning: node 1 to LP 1.
+LP 30 topology partitioning: node 2 to LP 2.
+LP 30 topology partitioning: node 3 to LP 3.
+LP 30 topology partitioning: node 4 to LP 4.
+LP 31 topology partitioning: node 1 to LP 1.
+LP 31 topology partitioning: node 2 to LP 2.
+LP 31 topology partitioning: node 3 to LP 3.
+LP 0 topology partitioning: node 2 to LP 2.
+LP 0 topology partitioning: node 3 to LP 3.
+LP 0 topology partitioning: node 4 to LP 4.
+LP 2 topology partitioning: node 2 to LP 2.
+LP 2 topology partitioning: node 3 to LP 3.
+LP 2 topology partitioning: node 4 to LP 4.
+LP 2 topology partitioning: node 5 to LP 5.
+LP 3 topology partitioning: node 2 to LP 2.
+LP 3 topology partitioning: node 3 to LP 3.
+LP 3 topology partitioning: node 4 to LP 4.
+LP 4 topology partitioning: node 2 to LP 2.
+LP 4 topology partitioning: node 3 to LP 3.
+LP 4 topology partitioning: node 4 to LP 4.
+LP 5 topology partitioning: node 2 to LP 2.
+LP 5 topology partitioning: node 3 to LP 3.
+LP 5 topology partitioning: node 4 to LP 4.
+LP 5 topology partitioning: node 5 to LP 5.
+LP 6 topology partitioning: node 2 to LP 2.
+LP 6 topology partitioning: node 3 to LP 3.
+LP 6 topology partitioning: node 4 to LP 4.
+LP 6 topology partitioning: node 5 to LP 5.
+LP 7 topology partitioning: node 2 to LP 2.
+LP 7 topology partitioning: node 3 to LP 3.
+LP 7 topology partitioning: node 4 to LP 4.
+LP 7 topology partitioning: node 5 to LP 5.
+LP 8 topology partitioning: node 2 to LP 2.
+LP 8 topology partitioning: node 3 to LP 3.
+LP 8 topology partitioning: node 4 to LP 4.
+LP 11 topology partitioning: node 2 to LP 2.
+LP 11 topology partitioning: node 3 to LP 3.
+LP 11 topology partitioning: node 4 to LP 4.
+LP 11 topology partitioning: node 5 to LP 5.
+LP 11 topology partitioning: node 6 to LP 6.
+LP 13 topology partitioning: node 3 to LP 3.
+LP 13 topology partitioning: node 4 to LP 4.
+LP 13 topology partitioning: node 5 to LP 5.
+LP 13 topology partitioning: node 6 to LP 6.
+LP 15 topology partitioning: node 3 to LP 3.
+LP 15 topology partitioning: node 4 to LP 4.
+LP 15 topology partitioning: node 5 to LP 5.
+LP 15 topology partitioning: node 6 to LP 6.
+LP 16 topology partitioning: node 3 to LP 3.
+LP 16 topology partitioning: node 4 to LP 4.
+LP 16 topology partitioning: node 5 to LP 5.
+LP 16 topology partitioning: node 6 to LP 6.
+LP 19 topology partitioning: node 3 to LP 3.
+LP 19 topology partitioning: node 4 to LP 4.
+LP 19 topology partitioning: node 5 to LP 5.
+LP 19 topology partitioning: node 6 to LP 6.
+LP 20 topology partitioning: node 3 to LP 3.
+LP 20 topology partitioning: node 4 to LP 4.
+LP 20 topology partitioning: node 5 to LP 5.
+LP 20 topology partitioning: node 6 to LP 6.
+LP 21 topology partitioning: node 3 to LP 3.
+LP 21 topology partitioning: node 4 to LP 4.
+LP 21 topology partitioning: node 5 to LP 5.
+LP 21 topology partitioning: node 6 to LP 6.
+LP 22 topology partitioning: node 3 to LP 3.
+LP 22 topology partitioning: node 4 to LP 4.
+LP 22 topology partitioning: node 5 to LP 5.
+LP 22 topology partitioning: node 6 to LP 6.
+LP 22 topology partitioning: node 7 to LP 7.
+LP 23 topology partitioning: node 3 to LP 3.
+LP 23 topology partitioning: node 4 to LP 4.
+LP 23 topology partitioning: node 5 to LP 5.
+LP 23 topology partitioning: node 6 to LP 6.
+LP 24 topology partitioning: node 3 to LP 3.
+LP 24 topology partitioning: node 4 to LP 4.
+LP 24 topology partitioning: node 5 to LP 5.
+LP 24 topology partitioning: node 6 to LP 6.
+LP 29 topology partitioning: node 4 to LP 4.
+LP 29 topology partitioning: node 5 to LP 5.
+LP 29 topology partitioning: node 6 to LP 6.
+LP 29 topology partitioning: node 7 to LP 7.
+LP 31 topology partitioning: node 4 to LP 4.
+LP 31 topology partitioning: node 5 to LP 5.
+LP 31 topology partitioning: node 6 to LP 6.
+LP 31 topology partitioning: node 7 to LP 7.
+LP 0 topology partitioning: node 5 to LP 5.
+LP 0 topology partitioning: node 6 to LP 6.
+LP 0 topology partitioning: node 7 to LP 7.
+LP 0 topology partitioning: node 8 to LP 8.
+LP 1 topology partitioning: node 1 to LP 1.
+LP 1 topology partitioning: node 2 to LP 2.
+LP 2 topology partitioning: node 6 to LP 6.
+LP 2 topology partitioning: node 7 to LP 7.
+LP 2 topology partitioning: node 8 to LP 8.
+LP 2 topology partitioning: node 9 to LP 9.
+LP 2 topology partitioning: node 10 to LP 10.
+LP 3 topology partitioning: node 5 to LP 5.
+LP 3 topology partitioning: node 6 to LP 6.
+LP 3 topology partitioning: node 7 to LP 7.
+LP 3 topology partitioning: node 8 to LP 8.
+LP 4 topology partitioning: node 5 to LP 5.
+LP 4 topology partitioning: node 6 to LP 6.
+LP 4 topology partitioning: node 7 to LP 7.
+LP 4 topology partitioning: node 8 to LP 8.
+LP 5 topology partitioning: node 6 to LP 6.
+LP 5 topology partitioning: node 7 to LP 7.
+LP 5 topology partitioning: node 8 to LP 8.
+LP 6 topology partitioning: node 6 to LP 6.
+LP 6 topology partitioning: node 7 to LP 7.
+LP 6 topology partitioning: node 8 to LP 8.
+LP 6 topology partitioning: node 9 to LP 9.
+LP 7 topology partitioning: node 6 to LP 6.
+LP 7 topology partitioning: node 7 to LP 7.
+LP 7 topology partitioning: node 8 to LP 8.
+LP 8 topology partitioning: node 5 to LP 5.
+LP 8 topology partitioning: node 6 to LP 6.
+LP 8 topology partitioning: node 7 to LP 7.
+LP 8 topology partitioning: node 8 to LP 8.
+LP 11 topology partitioning: node 7 to LP 7.
+LP 11 topology partitioning: node 8 to LP 8.
+LP 11 topology partitioning: node 9 to LP 9.
+LP 11 topology partitioning: node 10 to LP 10.
+LP 11 topology partitioning: node 11 to LP 11.
+LP 13 topology partitioning: node 7 to LP 7.
+LP 13 topology partitioning: node 8 to LP 8.
+LP 13 topology partitioning: node 9 to LP 9.
+LP 13 topology partitioning: node 10 to LP 10.
+LP 14 topology partitioning: node 1 to LP 1.
+LP 14 topology partitioning: node 2 to LP 2.
+LP 14 topology partitioning: node 3 to LP 3.
+LP 14 topology partitioning: node 4 to LP 4.
+LP 15 topology partitioning: node 7 to LP 7.
+LP 15 topology partitioning: node 8 to LP 8.
+LP 15 topology partitioning: node 9 to LP 9.
+LP 15 topology partitioning: node 10 to LP 10.
+LP 16 topology partitioning: node 7 to LP 7.
+LP 16 topology partitioning: node 8 to LP 8.
+LP 16 topology partitioning: node 9 to LP 9.
+LP 16 topology partitioning: node 10 to LP 10.
+LP 19 topology partitioning: node 7 to LP 7.
+LP 19 topology partitioning: node 8 to LP 8.
+LP 19 topology partitioning: node 9 to LP 9.
+LP 19 topology partitioning: node 10 to LP 10.
+LP 20 topology partitioning: node 7 to LP 7.
+LP 20 topology partitioning: node 8 to LP 8.
+LP 20 topology partitioning: node 9 to LP 9.
+LP 20 topology partitioning: node 10 to LP 10.
+LP 21 topology partitioning: node 7 to LP 7.
+LP 21 topology partitioning: node 8 to LP 8.
+LP 21 topology partitioning: node 9 to LP 9.
+LP 21 topology partitioning: node 10 to LP 10.
+LP 22 topology partitioning: node 8 to LP 8.
+LP 22 topology partitioning: node 9 to LP 9.
+LP 22 topology partitioning: node 10 to LP 10.
+LP 22 topology partitioning: node 11 to LP 11.
+LP 23 topology partitioning: node 7 to LP 7.
+LP 23 topology partitioning: node 8 to LP 8.
+LP 23 topology partitioning: node 9 to LP 9.
+LP 23 topology partitioning: node 10 to LP 10.
+LP 26 topology partitioning: node 1 to LP 1.
+LP 26 topology partitioning: node 2 to LP 2.
+LP 26 topology partitioning: node 3 to LP 3.
+LP 29 topology partitioning: node 8 to LP 8.
+LP 29 topology partitioning: node 9 to LP 9.
+LP 29 topology partitioning: node 10 to LP 10.
+LP 29 topology partitioning: node 11 to LP 11.
+LP 30 topology partitioning: node 5 to LP 5.
+LP 30 topology partitioning: node 6 to LP 6.
+LP 30 topology partitioning: node 7 to LP 7.
+LP 30 topology partitioning: node 8 to LP 8.
+LP 30 topology partitioning: node 9 to LP 9.
+LP 30 topology partitioning: node 10 to LP 10.
+LP 30 topology partitioning: node 11 to LP 11.
+LP 30 topology partitioning: node 12 to LP 12.
+LP 31 topology partitioning: node 8 to LP 8.
+LP 31 topology partitioning: node 9 to LP 9.
+LP 31 topology partitioning: node 10 to LP 10.
+LP 31 topology partitioning: node 11 to LP 11.
+LP 31 topology partitioning: node 12 to LP 12.
+LP 0 topology partitioning: node 9 to LP 9.
+LP 0 topology partitioning: node 10 to LP 10.
+LP 0 topology partitioning: node 11 to LP 11.
+LP 0 topology partitioning: node 12 to LP 12.
+LP 1 topology partitioning: node 3 to LP 3.
+LP 1 topology partitioning: node 4 to LP 4.
+LP 1 topology partitioning: node 5 to LP 5.
+LP 1 topology partitioning: node 6 to LP 6.
+LP 2 topology partitioning: node 11 to LP 11.
+LP 2 topology partitioning: node 12 to LP 12.
+LP 2 topology partitioning: node 13 to LP 13.
+LP 2 topology partitioning: node 14 to LP 14.
+LP 2 topology partitioning: node 15 to LP 15.
+LP 3 topology partitioning: node 9 to LP 9.
+LP 3 topology partitioning: node 10 to LP 10.
+LP 3 topology partitioning: node 11 to LP 11.
+LP 3 topology partitioning: node 12 to LP 12.
+LP 3 topology partitioning: node 13 to LP 13.
+LP 4 topology partitioning: node 9 to LP 9.
+LP 4 topology partitioning: node 10 to LP 10.
+LP 4 topology partitioning: node 11 to LP 11.
+LP 4 topology partitioning: node 12 to LP 12.
+LP 5 topology partitioning: node 9 to LP 9.
+LP 5 topology partitioning: node 10 to LP 10.
+LP 5 topology partitioning: node 11 to LP 11.
+LP 5 topology partitioning: node 12 to LP 12.
+LP 6 topology partitioning: node 10 to LP 10.
+LP 6 topology partitioning: node 11 to LP 11.
+LP 6 topology partitioning: node 12 to LP 12.
+LP 6 topology partitioning: node 13 to LP 13.
+LP 7 topology partitioning: node 9 to LP 9.
+LP 7 topology partitioning: node 10 to LP 10.
+LP 7 topology partitioning: node 11 to LP 11.
+LP 7 topology partitioning: node 12 to LP 12.
+LP 8 topology partitioning: node 9 to LP 9.
+LP 8 topology partitioning: node 10 to LP 10.
+LP 8 topology partitioning: node 11 to LP 11.
+LP 11 topology partitioning: node 12 to LP 12.
+LP 11 topology partitioning: node 13 to LP 13.
+LP 11 topology partitioning: node 14 to LP 14.
+LP 11 topology partitioning: node 15 to LP 15.
+LP 11 topology partitioning: node 16 to LP 16.
+LP 13 topology partitioning: node 11 to LP 11.
+LP 13 topology partitioning: node 12 to LP 12.
+LP 13 topology partitioning: node 13 to LP 13.
+LP 13 topology partitioning: node 14 to LP 14.
+LP 14 topology partitioning: node 5 to LP 5.
+LP 14 topology partitioning: node 6 to LP 6.
+LP 14 topology partitioning: node 7 to LP 7.
+LP 14 topology partitioning: node 8 to LP 8.
+LP 15 topology partitioning: node 11 to LP 11.
+LP 15 topology partitioning: node 12 to LP 12.
+LP 15 topology partitioning: node 13 to LP 13.
+LP 15 topology partitioning: node 14 to LP 14.
+LP 16 topology partitioning: node 11 to LP 11.
+LP 16 topology partitioning: node 12 to LP 12.
+LP 16 topology partitioning: node 13 to LP 13.
+LP 16 topology partitioning: node 14 to LP 14.
+LP 19 topology partitioning: node 11 to LP 11.
+LP 19 topology partitioning: node 12 to LP 12.
+LP 19 topology partitioning: node 13 to LP 13.
+LP 19 topology partitioning: node 14 to LP 14.
+LP 20 topology partitioning: node 11 to LP 11.
+LP 20 topology partitioning: node 12 to LP 12.
+LP 20 topology partitioning: node 13 to LP 13.
+LP 20 topology partitioning: node 14 to LP 14.
+LP 21 topology partitioning: node 11 to LP 11.
+LP 21 topology partitioning: node 12 to LP 12.
+LP 21 topology partitioning: node 13 to LP 13.
+LP 21 topology partitioning: node 14 to LP 14.
+LP 22 topology partitioning: node 12 to LP 12.
+LP 22 topology partitioning: node 13 to LP 13.
+LP 22 topology partitioning: node 14 to LP 14.
+LP 22 topology partitioning: node 15 to LP 15.
+LP 23 topology partitioning: node 11 to LP 11.
+LP 23 topology partitioning: node 12 to LP 12.
+LP 23 topology partitioning: node 13 to LP 13.
+LP 23 topology partitioning: node 14 to LP 14.
+LP 24 topology partitioning: node 7 to LP 7.
+LP 24 topology partitioning: node 8 to LP 8.
+LP 24 topology partitioning: node 9 to LP 9.
+LP 24 topology partitioning: node 10 to LP 10.
+LP 24 topology partitioning: node 11 to LP 11.
+LP 24 topology partitioning: node 12 to LP 12.
+LP 26 topology partitioning: node 4 to LP 4.
+LP 26 topology partitioning: node 5 to LP 5.
+LP 26 topology partitioning: node 6 to LP 6.
+LP 26 topology partitioning: node 7 to LP 7.
+LP 26 topology partitioning: node 8 to LP 8.
+LP 29 topology partitioning: node 12 to LP 12.
+LP 29 topology partitioning: node 13 to LP 13.
+LP 29 topology partitioning: node 14 to LP 14.
+LP 29 topology partitioning: node 15 to LP 15.
+LP 29 topology partitioning: node 16 to LP 16.
+LP 0 topology partitioning: node 13 to LP 13.
+LP 0 topology partitioning: node 14 to LP 14.
+LP 0 topology partitioning: node 15 to LP 15.
+LP 0 topology partitioning: node 16 to LP 16.
+LP 1 topology partitioning: node 7 to LP 7.
+LP 1 topology partitioning: node 8 to LP 8.
+LP 1 topology partitioning: node 9 to LP 9.
+LP 1 topology partitioning: node 10 to LP 10.
+LP 2 topology partitioning: node 16 to LP 16.
+LP 3 topology partitioning: node 14 to LP 14.
+LP 3 topology partitioning: node 15 to LP 15.
+LP 3 topology partitioning: node 16 to LP 16.
+LP 4 topology partitioning: node 13 to LP 13.
+LP 4 topology partitioning: node 14 to LP 14.
+LP 4 topology partitioning: node 15 to LP 15.
+LP 4 topology partitioning: node 16 to LP 16.
+LP 5 topology partitioning: node 13 to LP 13.
+LP 5 topology partitioning: node 14 to LP 14.
+LP 5 topology partitioning: node 15 to LP 15.
+LP 5 topology partitioning: node 16 to LP 16.
+LP 6 topology partitioning: node 14 to LP 14.
+LP 6 topology partitioning: node 15 to LP 15.
+LP 6 topology partitioning: node 16 to LP 16.
+LP 7 topology partitioning: node 13 to LP 13.
+LP 7 topology partitioning: node 14 to LP 14.
+LP 7 topology partitioning: node 15 to LP 15.
+LP 7 topology partitioning: node 16 to LP 16.
+LP 8 topology partitioning: node 12 to LP 12.
+LP 8 topology partitioning: node 13 to LP 13.
+LP 8 topology partitioning: node 14 to LP 14.
+LP 13 topology partitioning: node 15 to LP 15.
+LP 13 topology partitioning: node 16 to LP 16.
+LP 14 topology partitioning: node 9 to LP 9.
+LP 14 topology partitioning: node 10 to LP 10.
+LP 14 topology partitioning: node 11 to LP 11.
+LP 14 topology partitioning: node 12 to LP 12.
+LP 15 topology partitioning: node 15 to LP 15.
+LP 15 topology partitioning: node 16 to LP 16.
+LP 16 topology partitioning: node 15 to LP 15.
+LP 16 topology partitioning: node 16 to LP 16.
+LP 17 topology partitioning: node 1 to LP 1.
+LP 17 topology partitioning: node 2 to LP 2.
+LP 17 topology partitioning: node 3 to LP 3.
+LP 17 topology partitioning: node 4 to LP 4.
+LP 17 topology partitioning: node 5 to LP 5.
+LP 18 topology partitioning: node 1 to LP 1.
+LP 18 topology partitioning: node 2 to LP 2.
+LP 18 topology partitioning: node 3 to LP 3.
+LP 18 topology partitioning: node 4 to LP 4.
+LP 19 topology partitioning: node 15 to LP 15.
+LP 19 topology partitioning: node 16 to LP 16.
+LP 20 topology partitioning: node 15 to LP 15.
+LP 20 topology partitioning: node 16 to LP 16.
+LP 21 topology partitioning: node 15 to LP 15.
+LP 21 topology partitioning: node 16 to LP 16.
+LP 22 topology partitioning: node 16 to LP 16.
+LP 23 topology partitioning: node 15 to LP 15.
+LP 23 topology partitioning: node 16 to LP 16.
+LP 24 topology partitioning: node 13 to LP 13.
+LP 24 topology partitioning: node 14 to LP 14.
+LP 24 topology partitioning: node 15 to LP 15.
+LP 24 topology partitioning: node 16 to LP 16.
+LP 26 topology partitioning: node 9 to LP 9.
+LP 26 topology partitioning: node 10 to LP 10.
+LP 26 topology partitioning: node 11 to LP 11.
+LP 26 topology partitioning: node 12 to LP 12.
+LP 26 topology partitioning: node 13 to LP 13.
+LP 30 topology partitioning: node 13 to LP 13.
+LP 30 topology partitioning: node 14 to LP 14.
+LP 30 topology partitioning: node 15 to LP 15.
+LP 30 topology partitioning: node 16 to LP 16.
+LP 31 topology partitioning: node 13 to LP 13.
+LP 31 topology partitioning: node 14 to LP 14.
+LP 31 topology partitioning: node 15 to LP 15.
+LP 31 topology partitioning: node 16 to LP 16.
+LP 1 topology partitioning: node 11 to LP 11.
+LP 1 topology partitioning: node 12 to LP 12.
+LP 1 topology partitioning: node 13 to LP 13.
+LP 1 topology partitioning: node 14 to LP 14.
+LP 8 topology partitioning: node 15 to LP 15.
+LP 8 topology partitioning: node 16 to LP 16.
+LP 14 topology partitioning: node 13 to LP 13.
+LP 14 topology partitioning: node 14 to LP 14.
+LP 14 topology partitioning: node 15 to LP 15.
+LP 14 topology partitioning: node 16 to LP 16.
+LP 17 topology partitioning: node 6 to LP 6.
+LP 17 topology partitioning: node 7 to LP 7.
+LP 17 topology partitioning: node 8 to LP 8.
+LP 18 topology partitioning: node 5 to LP 5.
+LP 18 topology partitioning: node 6 to LP 6.
+LP 18 topology partitioning: node 7 to LP 7.
+LP 18 topology partitioning: node 8 to LP 8.
+LP 26 topology partitioning: node 14 to LP 14.
+LP 26 topology partitioning: node 15 to LP 15.
+LP 26 topology partitioning: node 16 to LP 16.
+LP 27 topology partitioning: node 1 to LP 1.
+LP 27 topology partitioning: node 2 to LP 2.
+LP 27 topology partitioning: node 3 to LP 3.
+LP 27 topology partitioning: node 4 to LP 4.
+LP 1 topology partitioning: node 15 to LP 15.
+LP 1 topology partitioning: node 16 to LP 16.
+LP 17 topology partitioning: node 9 to LP 9.
+LP 10 topology partitioning: node 1 to LP 1.
+LP 18 topology partitioning: node 9 to LP 9.
+LP 18 topology partitioning: node 10 to LP 10.
+LP 27 topology partitioning: node 5 to LP 5.
+LP 27 topology partitioning: node 6 to LP 6.
+LP 17 topology partitioning: node 10 to LP 10.
+LP 17 topology partitioning: node 11 to LP 11.
+LP 18 topology partitioning: node 11 to LP 11.
+LP 18 topology partitioning: node 12 to LP 12.
+LP 28 topology partitioning: node 1 to LP 1.
+LP 10 topology partitioning: node 2 to LP 2.
+LP 17 topology partitioning: node 12 to LP 12.
+LP 27 topology partitioning: node 7 to LP 7.
+LP 27 topology partitioning: node 8 to LP 8.
+LP 10 topology partitioning: node 3 to LP 3.
+LP 17 topology partitioning: node 13 to LP 13.
+LP 18 topology partitioning: node 13 to LP 13.
+LP 18 topology partitioning: node 14 to LP 14.
+LP 18 topology partitioning: node 15 to LP 15.
+LP 28 topology partitioning: node 2 to LP 2.
+LP 10 topology partitioning: node 4 to LP 4.
+LP 10 topology partitioning: node 5 to LP 5.
+LP 17 topology partitioning: node 14 to LP 14.
+LP 17 topology partitioning: node 15 to LP 15.
+LP 18 topology partitioning: node 16 to LP 16.
+LP 27 topology partitioning: node 9 to LP 9.
+LP 27 topology partitioning: node 10 to LP 10.
+LP 27 topology partitioning: node 11 to LP 11.
+LP 28 topology partitioning: node 3 to LP 3.
+LP 28 topology partitioning: node 4 to LP 4.
+LP 10 topology partitioning: node 6 to LP 6.
+LP 17 topology partitioning: node 16 to LP 16.
+LP 28 topology partitioning: node 5 to LP 5.
+LP 10 topology partitioning: node 7 to LP 7.
+LP 10 topology partitioning: node 8 to LP 8.
+LP 27 topology partitioning: node 12 to LP 12.
+LP 27 topology partitioning: node 13 to LP 13.
+LP 28 topology partitioning: node 6 to LP 6.
+LP 28 topology partitioning: node 7 to LP 7.
+LP 10 topology partitioning: node 9 to LP 9.
+LP 27 topology partitioning: node 14 to LP 14.
+LP 28 topology partitioning: node 8 to LP 8.
+LP 10 topology partitioning: node 10 to LP 10.
+LP 10 topology partitioning: node 11 to LP 11.
+LP 27 topology partitioning: node 15 to LP 15.
+LP 28 topology partitioning: node 9 to LP 9.
+LP 10 topology partitioning: node 12 to LP 12.
+LP 27 topology partitioning: node 16 to LP 16.
+LP 28 topology partitioning: node 10 to LP 10.
+LP 28 topology partitioning: node 11 to LP 11.
+LP 10 topology partitioning: node 13 to LP 13.
+LP 10 topology partitioning: node 14 to LP 14.
+LP 28 topology partitioning: node 12 to LP 12.
+LP 10 topology partitioning: node 15 to LP 15.
+LP 10 topology partitioning: node 16 to LP 16.
+LP 28 topology partitioning: node 13 to LP 13.
+LP 28 topology partitioning: node 14 to LP 14.
+LP 28 topology partitioning: node 15 to LP 15.
+LP 28 topology partitioning: node 16 to LP 16.
+LP 12 topology partitioning: node 1 to LP 1.
+LP 12 topology partitioning: node 2 to LP 2.
+LP 12 topology partitioning: node 3 to LP 3.
+LP 12 topology partitioning: node 4 to LP 4.
+LP 12 topology partitioning: node 5 to LP 5.
+LP 12 topology partitioning: node 6 to LP 6.
+LP 25 topology partitioning: node 0 to LP 0.
+LP 12 topology partitioning: node 7 to LP 7.
+LP 12 topology partitioning: node 8 to LP 8.
+LP 12 topology partitioning: node 9 to LP 9.
+LP 12 topology partitioning: node 10 to LP 10.
+LP 11 topology partitioning: node 17 to LP 17.
+LP 12 topology partitioning: node 11 to LP 11.
+LP 12 topology partitioning: node 12 to LP 12.
+LP 12 topology partitioning: node 13 to LP 13.
+LP 12 topology partitioning: node 14 to LP 14.
+LP 12 topology partitioning: node 15 to LP 15.
+LP 12 topology partitioning: node 16 to LP 16.
+LP 25 topology partitioning: node 1 to LP 1.
+LP 25 topology partitioning: node 2 to LP 2.
+LP 25 topology partitioning: node 3 to LP 3.
+LP 25 topology partitioning: node 4 to LP 4.
+LP 25 topology partitioning: node 5 to LP 5.
+LP 29 topology partitioning: node 17 to LP 17.
+LP 13 topology partitioning: node 17 to LP 17.
+LP 30 topology partitioning: node 17 to LP 17.
+LP 0 topology partitioning: node 17 to LP 17.
+LP 2 topology partitioning: node 17 to LP 17.
+LP 3 topology partitioning: node 17 to LP 17.
+LP 4 topology partitioning: node 17 to LP 17.
+LP 6 topology partitioning: node 17 to LP 17.
+LP 7 topology partitioning: node 17 to LP 17.
+LP 15 topology partitioning: node 17 to LP 17.
+LP 16 topology partitioning: node 17 to LP 17.
+LP 19 topology partitioning: node 17 to LP 17.
+LP 22 topology partitioning: node 17 to LP 17.
+LP 23 topology partitioning: node 17 to LP 17.
+LP 24 topology partitioning: node 17 to LP 17.
+LP 25 topology partitioning: node 6 to LP 6.
+LP 25 topology partitioning: node 7 to LP 7.
+LP 25 topology partitioning: node 8 to LP 8.
+LP 25 topology partitioning: node 9 to LP 9.
+LP 25 topology partitioning: node 10 to LP 10.
+LP 31 topology partitioning: node 17 to LP 17.
+LP 5 topology partitioning: node 17 to LP 17.
+LP 8 topology partitioning: node 17 to LP 17.
+LP 14 topology partitioning: node 17 to LP 17.
+LP 20 topology partitioning: node 17 to LP 17.
+LP 21 topology partitioning: node 17 to LP 17.
+LP 25 topology partitioning: node 11 to LP 11.
+LP 25 topology partitioning: node 12 to LP 12.
+LP 26 topology partitioning: node 17 to LP 17.
+LP 25 topology partitioning: node 13 to LP 13.
+LP 25 topology partitioning: node 14 to LP 14.
+LP 1 topology partitioning: node 17 to LP 17.
+LP 25 topology partitioning: node 15 to LP 15.
+LP 25 topology partitioning: node 16 to LP 16.
+LP 17 topology partitioning: node 17 to LP 17.
+LP 18 topology partitioning: node 17 to LP 17.
+LP 10 topology partitioning: node 17 to LP 17.
+LP 27 topology partitioning: node 17 to LP 17.
+LP 28 topology partitioning: node 17 to LP 17.
+LP 11 topology partitioning: node 18 to LP 18.
+LP 12 topology partitioning: node 17 to LP 17.
+LP 29 topology partitioning: node 18 to LP 18.
+LP 24 topology partitioning: node 18 to LP 18.
+LP 26 topology partitioning: node 18 to LP 18.
+LP 31 topology partitioning: node 18 to LP 18.
+LP 15 topology partitioning: node 18 to LP 18.
+LP 30 topology partitioning: node 18 to LP 18.
+LP 0 topology partitioning: node 18 to LP 18.
+LP 2 topology partitioning: node 18 to LP 18.
+LP 3 topology partitioning: node 18 to LP 18.
+LP 4 topology partitioning: node 18 to LP 18.
+LP 6 topology partitioning: node 18 to LP 18.
+LP 16 topology partitioning: node 18 to LP 18.
+LP 19 topology partitioning: node 18 to LP 18.
+LP 20 topology partitioning: node 18 to LP 18.
+LP 22 topology partitioning: node 18 to LP 18.
+LP 23 topology partitioning: node 18 to LP 18.
+LP 7 topology partitioning: node 18 to LP 18.
+LP 8 topology partitioning: node 18 to LP 18.
+LP 14 topology partitioning: node 18 to LP 18.
+LP 21 topology partitioning: node 18 to LP 18.
+LP 5 topology partitioning: node 18 to LP 18.
+LP 1 topology partitioning: node 18 to LP 18.
+LP 17 topology partitioning: node 18 to LP 18.
+LP 25 topology partitioning: node 17 to LP 17.
+LP 27 topology partitioning: node 18 to LP 18.
+LP 28 topology partitioning: node 18 to LP 18.
+LP 18 topology partitioning: node 18 to LP 18.
+LP 10 topology partitioning: node 18 to LP 18.
+LP 13 topology partitioning: node 18 to LP 18.
+LP 12 topology partitioning: node 18 to LP 18.
+LP 29 topology partitioning: node 19 to LP 19.
+LP 24 topology partitioning: node 19 to LP 19.
+LP 31 topology partitioning: node 19 to LP 19.
+LP 15 topology partitioning: node 19 to LP 19.
+LP 30 topology partitioning: node 19 to LP 19.
+LP 14 topology partitioning: node 19 to LP 19.
+LP 0 topology partitioning: node 19 to LP 19.
+LP 6 topology partitioning: node 19 to LP 19.
+LP 16 topology partitioning: node 19 to LP 19.
+LP 22 topology partitioning: node 19 to LP 19.
+LP 2 topology partitioning: node 19 to LP 19.
+LP 4 topology partitioning: node 19 to LP 19.
+LP 3 topology partitioning: node 19 to LP 19.
+LP 19 topology partitioning: node 19 to LP 19.
+LP 20 topology partitioning: node 19 to LP 19.
+LP 21 topology partitioning: node 19 to LP 19.
+LP 23 topology partitioning: node 19 to LP 19.
+LP 25 topology partitioning: node 18 to LP 18.
+LP 5 topology partitioning: node 19 to LP 19.
+LP 7 topology partitioning: node 19 to LP 19.
+LP 8 topology partitioning: node 19 to LP 19.
+LP 1 topology partitioning: node 19 to LP 19.
+LP 11 topology partitioning: node 19 to LP 19.
+LP 27 topology partitioning: node 19 to LP 19.
+LP 28 topology partitioning: node 19 to LP 19.
+LP 18 topology partitioning: node 19 to LP 19.
+LP 10 topology partitioning: node 19 to LP 19.
+LP 26 topology partitioning: node 19 to LP 19.
+LP 17 topology partitioning: node 19 to LP 19.
+LP 13 topology partitioning: node 19 to LP 19.
+LP 24 topology partitioning: node 20 to LP 20.
+LP 22 topology partitioning: node 20 to LP 20.
+LP 29 topology partitioning: node 20 to LP 20.
+LP 25 topology partitioning: node 19 to LP 19.
+LP 31 topology partitioning: node 20 to LP 20.
+LP 15 topology partitioning: node 20 to LP 20.
+LP 14 topology partitioning: node 20 to LP 20.
+LP 4 topology partitioning: node 20 to LP 20.
+LP 30 topology partitioning: node 20 to LP 20.
+LP 0 topology partitioning: node 20 to LP 20.
+LP 2 topology partitioning: node 20 to LP 20.
+LP 16 topology partitioning: node 20 to LP 20.
+LP 20 topology partitioning: node 20 to LP 20.
+LP 21 topology partitioning: node 20 to LP 20.
+LP 6 topology partitioning: node 20 to LP 20.
+LP 3 topology partitioning: node 20 to LP 20.
+LP 8 topology partitioning: node 20 to LP 20.
+LP 19 topology partitioning: node 20 to LP 20.
+LP 5 topology partitioning: node 20 to LP 20.
+LP 23 topology partitioning: node 20 to LP 20.
+LP 1 topology partitioning: node 20 to LP 20.
+LP 7 topology partitioning: node 20 to LP 20.
+LP 28 topology partitioning: node 20 to LP 20.
+LP 27 topology partitioning: node 20 to LP 20.
+LP 17 topology partitioning: node 20 to LP 20.
+LP 18 topology partitioning: node 20 to LP 20.
+LP 26 topology partitioning: node 20 to LP 20.
+LP 12 topology partitioning: node 19 to LP 19.
+LP 10 topology partitioning: node 20 to LP 20.
+LP 13 topology partitioning: node 20 to LP 20.
+LP 11 topology partitioning: node 20 to LP 20.
+LP 22 topology partitioning: node 21 to LP 21.
+LP 24 topology partitioning: node 21 to LP 21.
+LP 29 topology partitioning: node 21 to LP 21.
+LP 15 topology partitioning: node 21 to LP 21.
+LP 25 topology partitioning: node 20 to LP 20.
+LP 31 topology partitioning: node 21 to LP 21.
+LP 30 topology partitioning: node 21 to LP 21.
+LP 2 topology partitioning: node 21 to LP 21.
+LP 4 topology partitioning: node 21 to LP 21.
+LP 21 topology partitioning: node 21 to LP 21.
+LP 0 topology partitioning: node 21 to LP 21.
+LP 6 topology partitioning: node 21 to LP 21.
+LP 8 topology partitioning: node 21 to LP 21.
+LP 16 topology partitioning: node 21 to LP 21.
+LP 19 topology partitioning: node 21 to LP 21.
+LP 20 topology partitioning: node 21 to LP 21.
+LP 3 topology partitioning: node 21 to LP 21.
+LP 5 topology partitioning: node 21 to LP 21.
+LP 28 topology partitioning: node 21 to LP 21.
+LP 23 topology partitioning: node 21 to LP 21.
+LP 7 topology partitioning: node 21 to LP 21.
+LP 1 topology partitioning: node 21 to LP 21.
+LP 18 topology partitioning: node 21 to LP 21.
+LP 26 topology partitioning: node 21 to LP 21.
+LP 10 topology partitioning: node 21 to LP 21.
+LP 12 topology partitioning: node 20 to LP 20.
+LP 17 topology partitioning: node 21 to LP 21.
+LP 27 topology partitioning: node 21 to LP 21.
+LP 14 topology partitioning: node 21 to LP 21.
+LP 13 topology partitioning: node 21 to LP 21.
+LP 11 topology partitioning: node 21 to LP 21.
+LP 24 topology partitioning: node 22 to LP 22.
+LP 25 topology partitioning: node 21 to LP 21.
+LP 22 topology partitioning: node 22 to LP 22.
+LP 15 topology partitioning: node 22 to LP 22.
+LP 31 topology partitioning: node 22 to LP 22.
+LP 30 topology partitioning: node 22 to LP 22.
+LP 2 topology partitioning: node 22 to LP 22.
+LP 8 topology partitioning: node 22 to LP 22.
+LP 21 topology partitioning: node 22 to LP 22.
+LP 0 topology partitioning: node 22 to LP 22.
+LP 6 topology partitioning: node 22 to LP 22.
+LP 16 topology partitioning: node 22 to LP 22.
+LP 28 topology partitioning: node 22 to LP 22.
+LP 3 topology partitioning: node 22 to LP 22.
+LP 5 topology partitioning: node 22 to LP 22.
+LP 19 topology partitioning: node 22 to LP 22.
+LP 20 topology partitioning: node 22 to LP 22.
+LP 29 topology partitioning: node 22 to LP 22.
+LP 10 topology partitioning: node 22 to LP 22.
+LP 12 topology partitioning: node 21 to LP 21.
+LP 23 topology partitioning: node 22 to LP 22.
+LP 27 topology partitioning: node 22 to LP 22.
+LP 7 topology partitioning: node 22 to LP 22.
+LP 18 topology partitioning: node 22 to LP 22.
+LP 1 topology partitioning: node 22 to LP 22.
+LP 4 topology partitioning: node 22 to LP 22.
+LP 14 topology partitioning: node 22 to LP 22.
+LP 17 topology partitioning: node 22 to LP 22.
+LP 26 topology partitioning: node 22 to LP 22.
+LP 13 topology partitioning: node 22 to LP 22.
+LP 11 topology partitioning: node 22 to LP 22.
+LP 24 topology partitioning: node 23 to LP 23.
+LP 15 topology partitioning: node 23 to LP 23.
+LP 22 topology partitioning: node 23 to LP 23.
+LP 2 topology partitioning: node 23 to LP 23.
+LP 16 topology partitioning: node 23 to LP 23.
+LP 21 topology partitioning: node 23 to LP 23.
+LP 31 topology partitioning: node 23 to LP 23.
+LP 6 topology partitioning: node 23 to LP 23.
+LP 8 topology partitioning: node 23 to LP 23.
+LP 28 topology partitioning: node 23 to LP 23.
+LP 30 topology partitioning: node 23 to LP 23.
+LP 3 topology partitioning: node 23 to LP 23.
+LP 19 topology partitioning: node 23 to LP 23.
+LP 10 topology partitioning: node 23 to LP 23.
+LP 20 topology partitioning: node 23 to LP 23.
+LP 29 topology partitioning: node 23 to LP 23.
+LP 5 topology partitioning: node 23 to LP 23.
+LP 12 topology partitioning: node 22 to LP 22.
+LP 18 topology partitioning: node 23 to LP 23.
+LP 23 topology partitioning: node 23 to LP 23.
+LP 27 topology partitioning: node 23 to LP 23.
+LP 4 topology partitioning: node 23 to LP 23.
+LP 14 topology partitioning: node 23 to LP 23.
+LP 17 topology partitioning: node 23 to LP 23.
+LP 7 topology partitioning: node 23 to LP 23.
+LP 26 topology partitioning: node 23 to LP 23.
+LP 1 topology partitioning: node 23 to LP 23.
+LP 25 topology partitioning: node 22 to LP 22.
+LP 0 topology partitioning: node 23 to LP 23.
+LP 13 topology partitioning: node 23 to LP 23.
+LP 11 topology partitioning: node 23 to LP 23.
+LP 28 topology partitioning: node 24 to LP 24.
+LP 15 topology partitioning: node 24 to LP 24.
+LP 24 topology partitioning: node 24 to LP 24.
+LP 2 topology partitioning: node 24 to LP 24.
+LP 10 topology partitioning: node 24 to LP 24.
+LP 16 topology partitioning: node 24 to LP 24.
+LP 31 topology partitioning: node 24 to LP 24.
+LP 30 topology partitioning: node 24 to LP 24.
+LP 6 topology partitioning: node 24 to LP 24.
+LP 27 topology partitioning: node 24 to LP 24.
+LP 3 topology partitioning: node 24 to LP 24.
+LP 8 topology partitioning: node 24 to LP 24.
+LP 18 topology partitioning: node 24 to LP 24.
+LP 21 topology partitioning: node 24 to LP 24.
+LP 22 topology partitioning: node 24 to LP 24.
+LP 19 topology partitioning: node 24 to LP 24.
+LP 20 topology partitioning: node 24 to LP 24.
+LP 4 topology partitioning: node 24 to LP 24.
+LP 26 topology partitioning: node 24 to LP 24.
+LP 5 topology partitioning: node 24 to LP 24.
+LP 14 topology partitioning: node 24 to LP 24.
+LP 23 topology partitioning: node 24 to LP 24.
+LP 12 topology partitioning: node 23 to LP 23.
+LP 17 topology partitioning: node 24 to LP 24.
+LP 7 topology partitioning: node 24 to LP 24.
+LP 1 topology partitioning: node 24 to LP 24.
+LP 29 topology partitioning: node 24 to LP 24.
+LP 0 topology partitioning: node 24 to LP 24.
+LP 25 topology partitioning: node 23 to LP 23.
+LP 13 topology partitioning: node 24 to LP 24.
+LP 11 topology partitioning: node 24 to LP 24.
+LP 28 topology partitioning: node 25 to LP 25.
+LP 15 topology partitioning: node 25 to LP 25.
+LP 24 topology partitioning: node 25 to LP 25.
+LP 31 topology partitioning: node 25 to LP 25.
+LP 27 topology partitioning: node 25 to LP 25.
+LP 30 topology partitioning: node 25 to LP 25.
+LP 8 topology partitioning: node 25 to LP 25.
+LP 10 topology partitioning: node 25 to LP 25.
+LP 16 topology partitioning: node 25 to LP 25.
+LP 18 topology partitioning: node 25 to LP 25.
+LP 21 topology partitioning: node 25 to LP 25.
+LP 3 topology partitioning: node 25 to LP 25.
+LP 22 topology partitioning: node 25 to LP 25.
+LP 6 topology partitioning: node 25 to LP 25.
+LP 12 topology partitioning: node 24 to LP 24.
+LP 14 topology partitioning: node 25 to LP 25.
+LP 19 topology partitioning: node 25 to LP 25.
+LP 26 topology partitioning: node 25 to LP 25.
+LP 23 topology partitioning: node 25 to LP 25.
+LP 20 topology partitioning: node 25 to LP 25.
+LP 4 topology partitioning: node 25 to LP 25.
+LP 5 topology partitioning: node 25 to LP 25.
+LP 7 topology partitioning: node 25 to LP 25.
+LP 17 topology partitioning: node 25 to LP 25.
+LP 29 topology partitioning: node 25 to LP 25.
+LP 1 topology partitioning: node 25 to LP 25.
+LP 2 topology partitioning: node 25 to LP 25.
+LP 0 topology partitioning: node 25 to LP 25.
+LP 25 topology partitioning: node 24 to LP 24.
+LP 13 topology partitioning: node 25 to LP 25.
+LP 11 topology partitioning: node 25 to LP 25.
+LP 28 topology partitioning: node 26 to LP 26.
+LP 24 topology partitioning: node 26 to LP 26.
+LP 27 topology partitioning: node 26 to LP 26.
+LP 30 topology partitioning: node 26 to LP 26.
+LP 10 topology partitioning: node 26 to LP 26.
+LP 8 topology partitioning: node 26 to LP 26.
+LP 3 topology partitioning: node 26 to LP 26.
+LP 12 topology partitioning: node 25 to LP 25.
+LP 14 topology partitioning: node 26 to LP 26.
+LP 16 topology partitioning: node 26 to LP 26.
+LP 18 topology partitioning: node 26 to LP 26.
+LP 21 topology partitioning: node 26 to LP 26.
+LP 26 topology partitioning: node 26 to LP 26.
+LP 6 topology partitioning: node 26 to LP 26.
+LP 22 topology partitioning: node 26 to LP 26.
+LP 19 topology partitioning: node 26 to LP 26.
+LP 23 topology partitioning: node 26 to LP 26.
+LP 4 topology partitioning: node 26 to LP 26.
+LP 5 topology partitioning: node 26 to LP 26.
+LP 20 topology partitioning: node 26 to LP 26.
+LP 15 topology partitioning: node 26 to LP 26.
+LP 29 topology partitioning: node 26 to LP 26.
+LP 7 topology partitioning: node 26 to LP 26.
+LP 31 topology partitioning: node 26 to LP 26.
+LP 1 topology partitioning: node 26 to LP 26.
+LP 0 topology partitioning: node 26 to LP 26.
+LP 17 topology partitioning: node 26 to LP 26.
+LP 2 topology partitioning: node 26 to LP 26.
+LP 13 topology partitioning: node 26 to LP 26.
+LP 25 topology partitioning: node 25 to LP 25.
+LP 11 topology partitioning: node 26 to LP 26.
+LP 9 topology partitioning: node 0 to LP 0.
+LP 8 topology partitioning: node 27 to LP 27.
+LP 28 topology partitioning: node 27 to LP 27.
+LP 24 topology partitioning: node 27 to LP 27.
+LP 10 topology partitioning: node 27 to LP 27.
+LP 30 topology partitioning: node 27 to LP 27.
+LP 27 topology partitioning: node 27 to LP 27.
+LP 12 topology partitioning: node 26 to LP 26.
+LP 14 topology partitioning: node 27 to LP 27.
+LP 26 topology partitioning: node 27 to LP 27.
+LP 16 topology partitioning: node 27 to LP 27.
+LP 21 topology partitioning: node 27 to LP 27.
+LP 3 topology partitioning: node 27 to LP 27.
+LP 6 topology partitioning: node 27 to LP 27.
+LP 22 topology partitioning: node 27 to LP 27.
+LP 23 topology partitioning: node 27 to LP 27.
+LP 18 topology partitioning: node 27 to LP 27.
+LP 19 topology partitioning: node 27 to LP 27.
+LP 20 topology partitioning: node 27 to LP 27.
+LP 29 topology partitioning: node 27 to LP 27.
+LP 5 topology partitioning: node 27 to LP 27.
+LP 31 topology partitioning: node 27 to LP 27.
+LP 7 topology partitioning: node 27 to LP 27.
+LP 17 topology partitioning: node 27 to LP 27.
+LP 25 topology partitioning: node 26 to LP 26.
+LP 0 topology partitioning: node 27 to LP 27.
+LP 1 topology partitioning: node 27 to LP 27.
+LP 2 topology partitioning: node 27 to LP 27.
+LP 4 topology partitioning: node 27 to LP 27.
+LP 15 topology partitioning: node 27 to LP 27.
+LP 13 topology partitioning: node 27 to LP 27.
+LP 11 topology partitioning: node 27 to LP 27.
+LP 8 topology partitioning: node 28 to LP 28.
+LP 10 topology partitioning: node 28 to LP 28.
+LP 24 topology partitioning: node 28 to LP 28.
+LP 30 topology partitioning: node 28 to LP 28.
+LP 27 topology partitioning: node 28 to LP 28.
+LP 12 topology partitioning: node 27 to LP 27.
+LP 14 topology partitioning: node 28 to LP 28.
+LP 28 topology partitioning: node 28 to LP 28.
+LP 3 topology partitioning: node 28 to LP 28.
+LP 6 topology partitioning: node 28 to LP 28.
+LP 16 topology partitioning: node 28 to LP 28.
+LP 18 topology partitioning: node 28 to LP 28.
+LP 19 topology partitioning: node 28 to LP 28.
+LP 21 topology partitioning: node 28 to LP 28.
+LP 22 topology partitioning: node 28 to LP 28.
+LP 23 topology partitioning: node 28 to LP 28.
+LP 29 topology partitioning: node 28 to LP 28.
+LP 20 topology partitioning: node 28 to LP 28.
+LP 26 topology partitioning: node 28 to LP 28.
+LP 31 topology partitioning: node 28 to LP 28.
+LP 7 topology partitioning: node 28 to LP 28.
+LP 5 topology partitioning: node 28 to LP 28.
+LP 2 topology partitioning: node 28 to LP 28.
+LP 17 topology partitioning: node 28 to LP 28.
+LP 1 topology partitioning: node 28 to LP 28.
+LP 0 topology partitioning: node 28 to LP 28.
+LP 25 topology partitioning: node 27 to LP 27.
+LP 4 topology partitioning: node 28 to LP 28.
+LP 13 topology partitioning: node 28 to LP 28.
+LP 15 topology partitioning: node 28 to LP 28.
+LP 11 topology partitioning: node 28 to LP 28.
+LP 9 topology partitioning: node 1 to LP 1.
+LP 16 topology partitioning: node 29 to LP 29.
+LP 10 topology partitioning: node 29 to LP 29.
+LP 24 topology partitioning: node 29 to LP 29.
+LP 30 topology partitioning: node 29 to LP 29.
+LP 14 topology partitioning: node 29 to LP 29.
+LP 12 topology partitioning: node 28 to LP 28.
+LP 27 topology partitioning: node 29 to LP 29.
+LP 28 topology partitioning: node 29 to LP 29.
+LP 21 topology partitioning: node 29 to LP 29.
+LP 29 topology partitioning: node 29 to LP 29.
+LP 18 topology partitioning: node 29 to LP 29.
+LP 19 topology partitioning: node 29 to LP 29.
+LP 22 topology partitioning: node 29 to LP 29.
+LP 23 topology partitioning: node 29 to LP 29.
+LP 6 topology partitioning: node 29 to LP 29.
+LP 26 topology partitioning: node 29 to LP 29.
+LP 20 topology partitioning: node 29 to LP 29.
+LP 8 topology partitioning: node 29 to LP 29.
+LP 7 topology partitioning: node 29 to LP 29.
+LP 31 topology partitioning: node 29 to LP 29.
+LP 25 topology partitioning: node 28 to LP 28.
+LP 3 topology partitioning: node 29 to LP 29.
+LP 2 topology partitioning: node 29 to LP 29.
+LP 17 topology partitioning: node 29 to LP 29.
+LP 1 topology partitioning: node 29 to LP 29.
+LP 0 topology partitioning: node 29 to LP 29.
+LP 4 topology partitioning: node 29 to LP 29.
+LP 13 topology partitioning: node 29 to LP 29.
+LP 15 topology partitioning: node 29 to LP 29.
+LP 5 topology partitioning: node 29 to LP 29.
+LP 11 topology partitioning: node 29 to LP 29.
+LP 9 topology partitioning: node 2 to LP 2.
+LP 9 topology partitioning: node 3 to LP 3.
+LP 9 topology partitioning: node 4 to LP 4.
+LP 9 topology partitioning: node 5 to LP 5.
+LP 9 topology partitioning: node 6 to LP 6.
+LP 9 topology partitioning: node 7 to LP 7.
+LP 9 topology partitioning: node 8 to LP 8.
+LP 9 topology partitioning: node 9 to LP 9.
+LP 9 topology partitioning: node 10 to LP 10.
+LP 9 topology partitioning: node 11 to LP 11.
+LP 9 topology partitioning: node 12 to LP 12.
+LP 9 topology partitioning: node 13 to LP 13.
+LP 9 topology partitioning: node 14 to LP 14.
+LP 9 topology partitioning: node 15 to LP 15.
+LP 9 topology partitioning: node 16 to LP 16.
+LP 16 topology partitioning: node 30 to LP 30.
+LP 24 topology partitioning: node 30 to LP 30.
+LP 30 topology partitioning: node 30 to LP 30.
+LP 10 topology partitioning: node 30 to LP 30.
+LP 21 topology partitioning: node 30 to LP 30.
+LP 27 topology partitioning: node 30 to LP 30.
+LP 12 topology partitioning: node 29 to LP 29.
+LP 28 topology partitioning: node 30 to LP 30.
+LP 29 topology partitioning: node 30 to LP 30.
+LP 19 topology partitioning: node 30 to LP 30.
+LP 23 topology partitioning: node 30 to LP 30.
+LP 14 topology partitioning: node 30 to LP 30.
+LP 18 topology partitioning: node 30 to LP 30.
+LP 6 topology partitioning: node 30 to LP 30.
+LP 26 topology partitioning: node 30 to LP 30.
+LP 25 topology partitioning: node 29 to LP 29.
+LP 20 topology partitioning: node 30 to LP 30.
+LP 22 topology partitioning: node 30 to LP 30.
+LP 7 topology partitioning: node 30 to LP 30.
+LP 3 topology partitioning: node 30 to LP 30.
+LP 31 topology partitioning: node 30 to LP 30.
+LP 2 topology partitioning: node 30 to LP 30.
+LP 1 topology partitioning: node 30 to LP 30.
+LP 8 topology partitioning: node 30 to LP 30.
+LP 4 topology partitioning: node 30 to LP 30.
+LP 0 topology partitioning: node 30 to LP 30.
+LP 17 topology partitioning: node 30 to LP 30.
+LP 13 topology partitioning: node 30 to LP 30.
+LP 15 topology partitioning: node 30 to LP 30.
+LP 11 topology partitioning: node 30 to LP 30.
+LP 5 topology partitioning: node 30 to LP 30.
+LP 9 topology partitioning: node 17 to LP 17.
+LP 24 topology partitioning: node 31 to LP 31.
+LP 16 topology partitioning: node 31 to LP 31.
+LP 10 topology partitioning: node 31 to LP 31.
+LP 23 topology partitioning: node 31 to LP 31.
+LP 29 topology partitioning: node 31 to LP 31.
+LP 12 topology partitioning: node 30 to LP 30.
+LP 19 topology partitioning: node 31 to LP 31.
+LP 14 topology partitioning: node 31 to LP 31.
+LP 18 topology partitioning: node 31 to LP 31.
+LP 25 topology partitioning: node 30 to LP 30.
+LP 28 topology partitioning: node 31 to LP 31.
+LP 6 topology partitioning: node 31 to LP 31.
+LP 26 topology partitioning: node 31 to LP 31.
+LP 3 topology partitioning: node 31 to LP 31.
+LP 7 topology partitioning: node 31 to LP 31.
+LP 21 topology partitioning: node 31 to LP 31.
+LP 22 topology partitioning: node 31 to LP 31.
+LP 20 topology partitioning: node 31 to LP 31.
+LP 31 topology partitioning: node 31 to LP 31.
+LP 2 topology partitioning: node 31 to LP 31.
+LP 4 topology partitioning: node 31 to LP 31.
+LP 1 topology partitioning: node 31 to LP 31.
+LP 17 topology partitioning: node 31 to LP 31.
+LP 0 topology partitioning: node 31 to LP 31.
+LP 30 topology partitioning: node 31 to LP 31.
+LP 8 topology partitioning: node 31 to LP 31.
+LP 15 topology partitioning: node 31 to LP 31.
+LP 13 topology partitioning: node 31 to LP 31.
+LP 11 topology partitioning: node 31 to LP 31.
+LP 5 topology partitioning: node 31 to LP 31.
+LP 9 topology partitioning: node 18 to LP 18.
+LP 16 topology partitioning: node 32 to LP 0.
+LP 24 topology partitioning: node 32 to LP 0.
+LP 29 topology partitioning: node 32 to LP 0.
+LP 23 topology partitioning: node 32 to LP 0.
+LP 19 topology partitioning: node 32 to LP 0.
+LP 25 topology partitioning: node 31 to LP 31.
+LP 12 topology partitioning: node 31 to LP 31.
+LP 14 topology partitioning: node 32 to LP 0.
+LP 18 topology partitioning: node 32 to LP 0.
+LP 28 topology partitioning: node 32 to LP 0.
+LP 6 topology partitioning: node 32 to LP 0.
+LP 26 topology partitioning: node 32 to LP 0.
+LP 10 topology partitioning: node 32 to LP 0.
+LP 21 topology partitioning: node 32 to LP 0.
+LP 22 topology partitioning: node 32 to LP 0.
+LP 7 topology partitioning: node 32 to LP 0.
+LP 31 topology partitioning: node 32 to LP 0.
+LP 20 topology partitioning: node 32 to LP 0.
+LP 2 topology partitioning: node 32 to LP 0.
+LP 17 topology partitioning: node 32 to LP 0.
+LP 0 topology partitioning: node 32 to LP 0.
+LP 1 topology partitioning: node 32 to LP 0.
+LP 4 topology partitioning: node 32 to LP 0.
+LP 8 topology partitioning: node 32 to LP 0.
+LP 3 topology partitioning: node 32 to LP 0.
+LP 11 topology partitioning: node 32 to LP 0.
+LP 13 topology partitioning: node 32 to LP 0.
+LP 15 topology partitioning: node 32 to LP 0.
+LP 30 topology partitioning: node 32 to LP 0.
+LP 5 topology partitioning: node 32 to LP 0.
+LP 16 topology partitioning: node 33 to LP 1.
+LP 9 topology partitioning: node 19 to LP 19.
+LP 19 topology partitioning: node 33 to LP 1.
+LP 23 topology partitioning: node 33 to LP 1.
+LP 25 topology partitioning: node 32 to LP 0.
+LP 29 topology partitioning: node 33 to LP 1.
+LP 6 topology partitioning: node 33 to LP 1.
+LP 10 topology partitioning: node 33 to LP 1.
+LP 12 topology partitioning: node 32 to LP 0.
+LP 14 topology partitioning: node 33 to LP 1.
+LP 18 topology partitioning: node 33 to LP 1.
+LP 26 topology partitioning: node 33 to LP 1.
+LP 28 topology partitioning: node 33 to LP 1.
+LP 7 topology partitioning: node 33 to LP 1.
+LP 20 topology partitioning: node 33 to LP 1.
+LP 22 topology partitioning: node 33 to LP 1.
+LP 24 topology partitioning: node 33 to LP 1.
+LP 31 topology partitioning: node 33 to LP 1.
+LP 0 topology partitioning: node 33 to LP 1.
+LP 1 topology partitioning: node 33 to LP 1.
+LP 4 topology partitioning: node 33 to LP 1.
+LP 8 topology partitioning: node 33 to LP 1.
+LP 17 topology partitioning: node 33 to LP 1.
+LP 21 topology partitioning: node 33 to LP 1.
+LP 2 topology partitioning: node 33 to LP 1.
+LP 3 topology partitioning: node 33 to LP 1.
+LP 13 topology partitioning: node 33 to LP 1.
+LP 11 topology partitioning: node 33 to LP 1.
+LP 15 topology partitioning: node 33 to LP 1.
+LP 30 topology partitioning: node 33 to LP 1.
+LP 5 topology partitioning: node 33 to LP 1.
+LP 23 topology partitioning: node 34 to LP 2.
+LP 29 topology partitioning: node 34 to LP 2.
+LP 6 topology partitioning: node 34 to LP 2.
+LP 9 topology partitioning: node 20 to LP 20.
+LP 10 topology partitioning: node 34 to LP 2.
+LP 14 topology partitioning: node 34 to LP 2.
+LP 18 topology partitioning: node 34 to LP 2.
+LP 19 topology partitioning: node 34 to LP 2.
+LP 25 topology partitioning: node 33 to LP 1.
+LP 26 topology partitioning: node 34 to LP 2.
+LP 7 topology partitioning: node 34 to LP 2.
+LP 12 topology partitioning: node 33 to LP 1.
+LP 22 topology partitioning: node 34 to LP 2.
+LP 24 topology partitioning: node 34 to LP 2.
+LP 28 topology partitioning: node 34 to LP 2.
+LP 31 topology partitioning: node 34 to LP 2.
+LP 0 topology partitioning: node 34 to LP 2.
+LP 4 topology partitioning: node 34 to LP 2.
+LP 17 topology partitioning: node 34 to LP 2.
+LP 20 topology partitioning: node 34 to LP 2.
+LP 21 topology partitioning: node 34 to LP 2.
+LP 1 topology partitioning: node 34 to LP 2.
+LP 2 topology partitioning: node 34 to LP 2.
+LP 3 topology partitioning: node 34 to LP 2.
+LP 8 topology partitioning: node 34 to LP 2.
+LP 11 topology partitioning: node 34 to LP 2.
+LP 13 topology partitioning: node 34 to LP 2.
+LP 15 topology partitioning: node 34 to LP 2.
+LP 16 topology partitioning: node 34 to LP 2.
+LP 30 topology partitioning: node 34 to LP 2.
+LP 5 topology partitioning: node 34 to LP 2.
+LP 23 topology partitioning: node 35 to LP 3.
+LP 19 topology partitioning: node 35 to LP 3.
+LP 25 topology partitioning: node 34 to LP 2.
+LP 9 topology partitioning: node 21 to LP 21.
+LP 14 topology partitioning: node 35 to LP 3.
+LP 18 topology partitioning: node 35 to LP 3.
+LP 10 topology partitioning: node 35 to LP 3.
+LP 26 topology partitioning: node 35 to LP 3.
+LP 12 topology partitioning: node 34 to LP 2.
+LP 6 topology partitioning: node 35 to LP 3.
+LP 28 topology partitioning: node 35 to LP 3.
+LP 22 topology partitioning: node 35 to LP 3.
+LP 24 topology partitioning: node 35 to LP 3.
+LP 31 topology partitioning: node 35 to LP 3.
+LP 7 topology partitioning: node 35 to LP 3.
+LP 20 topology partitioning: node 35 to LP 3.
+LP 21 topology partitioning: node 35 to LP 3.
+LP 0 topology partitioning: node 35 to LP 3.
+LP 17 topology partitioning: node 35 to LP 3.
+LP 4 topology partitioning: node 35 to LP 3.
+LP 1 topology partitioning: node 35 to LP 3.
+LP 2 topology partitioning: node 35 to LP 3.
+LP 8 topology partitioning: node 35 to LP 3.
+LP 3 topology partitioning: node 35 to LP 3.
+LP 11 topology partitioning: node 35 to LP 3.
+LP 13 topology partitioning: node 35 to LP 3.
+LP 15 topology partitioning: node 35 to LP 3.
+LP 29 topology partitioning: node 35 to LP 3.
+LP 16 topology partitioning: node 35 to LP 3.
+LP 30 topology partitioning: node 35 to LP 3.
+LP 5 topology partitioning: node 35 to LP 3.
+LP 27 topology partitioning: node 31 to LP 31.
+LP 25 topology partitioning: node 35 to LP 3.
+LP 9 topology partitioning: node 22 to LP 22.
+LP 12 topology partitioning: node 35 to LP 3.
+LP 9 topology partitioning: node 23 to LP 23.
+LP 27 topology partitioning: node 32 to LP 0.
+LP 27 topology partitioning: node 33 to LP 1.
+LP 9 topology partitioning: node 24 to LP 24.
+LP 27 topology partitioning: node 34 to LP 2.
+LP 9 topology partitioning: node 25 to LP 25.
+LP 27 topology partitioning: node 35 to LP 3.
+LP 9 topology partitioning: node 26 to LP 26.
+LP 9 topology partitioning: node 27 to LP 27.
+LP 9 topology partitioning: node 28 to LP 28.
+LP 9 topology partitioning: node 29 to LP 29.
+LP 9 topology partitioning: node 30 to LP 30.
+LP 9 topology partitioning: node 31 to LP 31.
+LP 9 topology partitioning: node 32 to LP 0.
+LP 9 topology partitioning: node 33 to LP 1.
+LP 9 topology partitioning: node 34 to LP 2.
+LP 9 topology partitioning: node 35 to LP 3.
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+Running Simulation.
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+maxRtt=12696 maxBdp=158700
+Running Simulation.
+LP 0: add flow 0 to 15
+LP 1: add flow 1 to 14
+LP 2: add flow 2 to 13
+LP 3: add flow 3 to 12
+LP 4: add flow 4 to 11
+LP 5: add flow 5 to 10
+LP 6: add flow 6 to 9
+LP 7: add flow 7 to 8
+395.749395.798
+395.799
+396.106
+396.011
+396.184
+395.989
+396.24
+395.833
+395.928
+395.59
+394.853
+393.121
+395.543
+395.565
+395.744
+396.108
+395.88
+395.787
+395.52
+395.119
+395.969
+396.256
+395.906
+395.815
+395.131
+395.705
+395.408
+396.005
+395.951
+395.906
+
+395.202
